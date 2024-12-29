@@ -29,8 +29,8 @@ export default function Index() {
         </Box>
       </Box>
       <Box sx={{mb:10}}>
-        <p>Born in 1990</p>
-        <p>Lives and works in Frankfurt, DE</p>
+        <p>Born in 1990, Bekasi, Indonesia</p>
+        <p>Lives and works in Frankfurt, Germany</p>
         <p>&nbsp;</p>
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>EDUCATION</Typography>
         <p>[2024 - ]&nbsp;Fine Arts, Prof. Haegue Yang&nbsp;-&nbsp;Hochschule f&uuml;r Bildende K&uuml;nste - St&auml;delschule, Frankfurt - Germany</p>
