@@ -47,24 +47,14 @@ Learning to Become Caravaggio
 
 -------------------------------------------
 
-::youtube{#tRMuH26gF4s}
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/tRMuH26gF4s?si=_lnQEjD34SINJ38w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/6uMq19reSys?si=qAyIKyDEdbIG3hpy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/_sES-4WAyKU?si=BiR5J-oV_e7ebKk6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-::youtube{#-br5ZKYLNGU}
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/-br5ZKYLNGU?si=Pmac6ytcwQexJZHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/delXWUCg9Y4?si=hcG7g-4BS_yYq7Bn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-::youtube{#6uMq19reSys}
-
-
-
-::youtube{#Llyr4Ny0IMk}
-
-
-
-::youtube{#delXWUCg9Y4}
-
-
-
-::youtube{#_sES-4WAyKU}
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Llyr4Ny0IMk?si=pilTxL_UNEH2vYOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
