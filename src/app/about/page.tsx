@@ -143,7 +143,7 @@ export default function Index() {
         </li>
         </ol>
         <p>&nbsp;</p>
-        <h3><strong>AWARDS</strong></h3>
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>AWARDS</Typography>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
         <div>3rd Place Best Students&rsquo; Artwork Production in Final Degree Project Fine Art Category of 2015 Universitas Negeri Jakarta, Jakarta - Indonesia</div>
