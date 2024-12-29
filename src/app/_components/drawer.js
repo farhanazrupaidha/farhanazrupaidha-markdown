@@ -75,7 +75,7 @@ function DrawerToggle () {
             </ListItem>
               <Divider sx={{mr:5}} />
                 <ListItem disablePadding>
-                  <ListItemButton href="/">
+                  <ListItemButton href="/works">
                     <ListItemText>
                       Works
                     </ListItemText>

@@ -55,7 +55,7 @@ export default function Footer () {
                 Explore
             </Typography>
             <Typography variant="body1" gutterBottom>
-                <Link href="/" underline="hover" color='inherit'>
+                <Link href="/works" underline="hover" color='inherit'>
                     Works
                 </Link>
             </Typography>
