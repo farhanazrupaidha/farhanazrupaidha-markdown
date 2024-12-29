@@ -47,7 +47,7 @@ export default function JournalCard ({
         </CardContent>
       </CardActionArea>
       <CardActions>
-      <Button size="small" color="secondary" variant="outlined" sx={{mb:1, ml:1}} href={`/journals/${slug}`}>
+      <Button size="small" color="secondary" variant="outlined" sx={{mb:1, ml:1}} href={`/posts/${slug}`}>
         Learn More
       </Button>
       </CardActions>
