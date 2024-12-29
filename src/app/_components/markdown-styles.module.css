@@ -2,10 +2,7 @@
   @apply text-lg leading-relaxed;
 }
 
-.markdown p,
-.markdown ul,
-.markdown ol,
-.markdown blockquote {
+.markdown p {
   @apply my-6;
 }
 
@@ -15,4 +12,36 @@
 
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
+}
+
+.markdown ul {
+  @apply text-sm list-disc my-6 list-inside;
+}
+
+.markdown ol {
+  @apply text-sm list-decimal my-6 list-outside;
+}
+
+.markdown table {
+  @apply table-auto min-w-full text-left text-sm overflow-x-auto border-spacing-0 mb-8;
+}
+
+.markdown thead {
+  @apply border-b font-medium;
+}
+
+.markdown tr {
+  @apply border-b h-px;
+}
+
+.markdown td {
+  @apply whitespace-nowrap h-px;
+}
+
+.markdown blockquote {
+  @apply p-4 my-4 border-s-4 border-gray-300 bg-gray-50 text-sky-400 dark:border-gray-500 dark:bg-gray-800 text-xl italic font-medium leading-relaxed;
+}
+
+.markdown code {
+  @apply text-sm sm:text-base inline-flex text-left items-center space-x-4 rounded-lg p-4 pl-6 bg-gray-50 dark:bg-gray-800 border-gray-300;
 }

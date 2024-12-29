@@ -4,6 +4,10 @@ import { type Author } from "@/interfaces/author";
 import Link from "next/link";
 import DateFormatter from "./date-formatter";
 
+import Chip from '@mui/material/Chip';
+import Stack from '@mui/material/Stack';
+import Typography from '@mui/material/Typography';
+
 type Props = {
   title: string;
   coverImage: string;
@@ -11,6 +15,10 @@ type Props = {
   excerpt: string;
   author: Author;
   slug: string;
+};
+
+const handleClick = () => {
+  console.info('You clicked the Chip.');
 };
 
 export function HeroPost({
@@ -28,18 +36,15 @@ export function HeroPost({
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
-          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
+        <Typography variant="h3">
             <Link href={`/posts/${slug}`} className="hover:underline">
               {title}
             </Link>
-          </h3>
+          </Typography>
           <div className="mb-4 md:mb-0 text-lg">
             <DateFormatter dateString={date} />
           </div>
-        </div>
-        <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
+          <Chip sx={{maxWidth:200}} color="secondary" label="Portfolio" />
         </div>
       </div>
     </section>

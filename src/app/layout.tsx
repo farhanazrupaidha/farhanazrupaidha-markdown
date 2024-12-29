@@ -1,20 +1,39 @@
-import Footer from "@/app/_components/footer";
+
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import cn from "classnames";
-import { ThemeSwitcher } from "./_components/theme-switcher";
 
-import "./globals.css";
+import ThemeRegistry from './_components/ThemeRegistry/ThemeRegistry';
+import "../styles/globals.css"
+
+import ResponsiveAppBar from "./_components/appbar"
+import Footer from "./_components/footer"
 
 const inter = Inter({ subsets: ["latin"] });
+const title =
+  "Farhanaz Rupaidha";
+const description =
+  "Artist, lives and works in Frankfurt, Germany.";
+const image = "/images/Blue Neptune_ScreenShot_1.jpg";
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title,
+  description,
+  icons: ["/images/favicon.ico"],
   openGraph: {
-    images: [HOME_OG_IMAGE_URL],
+    title,
+    description,
+    images: [image],
   },
+  twitter: {
+    card: "summary_large_image",
+    title,
+    description,
+    images: [image],
+    creator: "@studiofruworks",
+  },
+  metadataBase: new URL("https://www.farhanazrupaidha.com"),
 };
 
 export default function RootLayout({
@@ -23,32 +42,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <head>
-        <link
-          rel="apple-touch-icon"
-          sizes="180x180"
-          href="/favicon/apple-touch-icon.png"
-        />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="32x32"
-          href="/favicon/favicon-32x32.png"
-        />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="16x16"
-          href="/favicon/favicon-16x16.png"
-        />
         <link rel="manifest" href="/favicon/site.webmanifest" />
         <link
           rel="mask-icon"
-          href="/favicon/safari-pinned-tab.svg"
+          href="/images/studiofru - favicon.ico"
           color="#000000"
         />
-        <link rel="shortcut icon" href="/favicon/favicon.ico" />
+        <link rel="shortcut icon" href="/images/studiofru - favicon.ico" />
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="msapplication-config"
@@ -60,9 +62,11 @@ export default function RootLayout({
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
-        <ThemeSwitcher />
-        <div className="min-h-screen">{children}</div>
+        <ThemeRegistry>
+        <ResponsiveAppBar />
+        <main>{children}</main>
         <Footer />
+        </ThemeRegistry>
       </body>
     </html>
   );
