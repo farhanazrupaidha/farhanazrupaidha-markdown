@@ -18,10 +18,15 @@ export default function Index() {
         alignItems="center"
         minHeight="55vh"
       >
-        <Marquee>
-        <Typography variant="h1" gutterBottom>
-          {`${time}`} - {`${date}`}
-        </Typography>
+        <Marquee direction="left">
+          <Typography variant="h1" gutterBottom>
+            {`${time}`} - {`${date}`} &nbsp; 
+          </Typography>
+        </Marquee> 
+        <Marquee direction="right">
+          <Typography variant="h1" gutterBottom>
+            Imagine sleeping without ears. &nbsp; 
+          </Typography>
         </Marquee> 
       </Box>
       </Container>
