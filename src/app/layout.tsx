@@ -43,6 +43,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        <GoogleTagManager gtmId="G-DJL22REB3P" />
         <link rel="manifest" href="/favicon/site.webmanifest" />
         <link
           rel="mask-icon"
@@ -61,7 +62,6 @@ export default function RootLayout({
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
-         <GoogleTagManager gtmId="G-DJL22REB3P" />
         <ThemeRegistry>
         <ResponsiveAppBar />
         <main>{children}</main>

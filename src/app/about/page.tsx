@@ -163,9 +163,6 @@ export default function Index() {
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>OTHER PROJECTS</Typography>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div>[2024 - presents] Web design and development for Pemerintah Desa Citemu, Cirebon - Jawa Barat</div>
-        </li>
-        <li>
         <div>[2022 - presents] Biodiversity archivist and documentation, lake Setu Patok Cirebon conservation - Studiofru | Green Project&nbsp;<a title="https://www.studiofrugreenproject.com" href="https://www.studiofrugreenproject.com/">https://studiofrugreenproject.com</a></div>
         </li>
         <li>
