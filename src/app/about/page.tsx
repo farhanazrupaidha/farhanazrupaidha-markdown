@@ -37,6 +37,12 @@ export default function Index() {
         <p>[2008 - 2014] Bachelor of Education (B.Ed) - Visual Art Education Department - Universitas Negeri Jakarta, Jakarta - Indonesia</p>
         <p>&nbsp;</p>
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>SELECTED EXHIBITIONS/SCREENINGS</Typography>
+        <p><br />[2025]&nbsp;</p>
+        <ol className="list-decimal my-6 list-outside ml-20">
+        <li>
+        <p>Rundgang 2025, Städelschule, Frankfurt - Germany</p>
+        </li>
+        </ol>
         <p><br />[2024]&nbsp;</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
