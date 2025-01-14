@@ -62,6 +62,7 @@ export default function RootLayout({
           <script
             src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
           />  
+          <meta name="google-site-verification" content="UndsOd9MrwydSuReKd-6pLe0vO2Z0sRfo9IE3n9D4iY" />
             {/* Global Site Tag (gtag.js) - Google Analytics */}   
         <link rel="manifest" href="/favicon/site.webmanifest" />
         <meta name="revisit-after" content="3 days" />     
