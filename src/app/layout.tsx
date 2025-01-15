@@ -14,7 +14,7 @@ const inter = Inter({ subsets: ["latin"] });
 const title =
   "Farhanaz Rupaidha";
 const description =
-  "Artist, lives and works in Frankfurt, Germany.";
+  "Lives and works in Frankfurt, Germany.";
 const image = "/images/Blue Neptune_ScreenShot_1.jpg";
 
 export const metadata: Metadata = {
