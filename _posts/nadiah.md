@@ -16,7 +16,7 @@ Photography series, 2015
 * * * * *
 
 Nadiah turned 40 in 2015. She is not married and still lives with her mother. On a daily basis, she is busy taking care of her nieces and nephews, her mother and the family home. 
-On the day this photo was taken, she took her mother, sister, nephew and sister-in-law to Monas in Jakarta to enjoy the atmosphere of the capital city.
+On the day these photos were taken, she took her mother, sister, nephew and sister-in-law to Monas in Jakarta to enjoy the atmosphere of the capital city.
 
 * * * * *
 
