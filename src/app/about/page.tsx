@@ -37,16 +37,19 @@ export default function Index() {
         <p>[2008 - 2014] Bachelor of Education (B.Ed) - Visual Art Education Department - Universitas Negeri Jakarta, Jakarta - Indonesia</p>
         <p>&nbsp;</p>
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>SELECTED EXHIBITIONS/SCREENINGS</Typography>
-        <p><br />[2025]&nbsp;</p>
+        <p>[2025]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <p>Rundgang 2025, Städelschule, Frankfurt - Germany</p>
+        <div>Rundgang 2025, Städelschule, Frankfurt - Germany</div>
         </li>
         </ol>
-        <p><br />[2024]&nbsp;</p>
+        <p>[2024]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <p>Jelajah Jala, Festival Komunitas Seni Media 2024,&nbsp;initiated by The Indonesian Ministry of Education, Culture, Research and Technology, Benteng Rotterdam, Kota Makassar - Indonesia</p>
+        <div>MIVA Festival: XVIII Expanded Narratives Edition,&nbsp;Casa de la Cultura Ecuatoriana Benjamín Carrión, Quito - Ecuador</div>
+        </li>
+        <li>
+        <div>Jelajah Jala, Festival Komunitas Seni Media 2024,&nbsp;initiated by The Indonesian Ministry of Education, Culture, Research and Technology, Benteng Rotterdam, Kota Makassar - Indonesia</div>
         </li>
         </ol>
         <p>[2021]</p>
