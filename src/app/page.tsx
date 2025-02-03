@@ -20,12 +20,7 @@ export default function Index() {
       >
         <Marquee direction="left">
           <Typography variant="h1" gutterBottom>
-            Rundgang 2025, 7 – 9 February 2025, 10:00–20:00 &nbsp;
-          </Typography>
-        </Marquee> 
-        <Marquee direction="right">
-          <Typography variant="h1" gutterBottom>
-          Städelschule, Dürerstaße 10, Frankfurt &nbsp;
+            Imagine sleeping without ears. &nbsp;
           </Typography>
         </Marquee> 
       </Box>
