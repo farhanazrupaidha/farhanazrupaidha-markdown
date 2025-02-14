@@ -9,10 +9,11 @@ author:
 ogImage:
   url: "https://res.cloudinary.com/studiofruworks/image/upload/v1710920420/jackplan-user/bdl8jghrq7mk3epp85fg.jpg"
 ---
-**24 Grids Living in Harmony of Dust and Heat**
+**BILD: 1_INVISIBLE ATTACHMENT**
 
 
-2 Hand embossing on paper in aluminium frames, 2 neon tubes with 2 programmed mechanical timers each for 15 minutes
+2 Hand embossing on paper in aluminium frames
+2 neon tubes with 2 programmed mechanical timers each for 15 minutes
 1 HD video with colour and sound, 3:04 min
 21 x 29.7 cm each
 
