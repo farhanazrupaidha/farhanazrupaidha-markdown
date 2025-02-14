@@ -86,5 +86,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: 'weekly',
         priority: 0.5,
     },
+    {
+        url: 'https://www.farhanazrupaidha.com/posts/bild-1_invisible-attachment',
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.5,
+    },
   ]
 }

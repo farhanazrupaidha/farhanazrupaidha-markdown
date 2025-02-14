@@ -66,6 +66,7 @@ export default function RootLayout({
             {/* Global Site Tag (gtag.js) - Google Analytics */}   
         <link rel="manifest" href="/favicon/site.webmanifest" />
         <meta name="revisit-after" content="3 days" />     
+        <meta name="robots" content="index, follow" />
         <script src="https://media-library.cloudinary.com/global/all.js" /> 
         <link rel="icon" href="/icon?<generated>" type="image/<generated>" sizes="<generated>" />
         <link rel="apple-touch-icon" href="/apple-icon?<generated>" type="image/<generated>" sizes="<generated>" />   
