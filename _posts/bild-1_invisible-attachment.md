@@ -21,7 +21,7 @@ ogImage:
 
 * * * * *
 
-It took me about a 15-minute walk from Frankfurt-Bahnhofsviertel to the school to witness the reality of homeless drug addicts. As members of society, they are highly visible but also invisible at the same time. A painful and depressing sight for humanity collectively.
+It took me about a 15-minute walk from Frankfurt-Bahnhofsviertel to the school to witness the reality of homeless drug addicts. As members of society, they are highly visible but also invisible at the same time. A painful and sad sight for humanity collectively.
 
 * * * * *
 
