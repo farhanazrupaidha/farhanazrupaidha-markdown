@@ -25,7 +25,6 @@ It took me about a 15-minute walk from Frankfurt-Bahnhofsviertel to the school t
 
 * * * * *
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563806/jackplan-user/rpmphcdabtjo9g2gqqsa.jpg)
 
 ![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563819/jackplan-user/j0pe3kglgpvawartspuu.jpg)
 
