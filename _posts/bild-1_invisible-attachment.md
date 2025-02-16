@@ -1,6 +1,6 @@
 ---
 title: "BILD: 1_INVISIBLE ATTACHMENT"
-excerpt: "Visible - invisible, far and near, rich and poor, healthy and ill, crowded and lonely, lost and empty, sadness and happiness, pain and reality."
+excerpt: "Visible - invisible, far and near, amazing and demoralizing, rich and poor, healthy and ill, crowded and lonely, lost and empty, sadness and happiness, pain and reality."
 coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1739563806/jackplan-user/rpmphcdabtjo9g2gqqsa.jpg"
 date: "2025-02-07T05:35:07.322Z"
 author:
@@ -21,7 +21,7 @@ ogImage:
 
 * * * * *
 
-It took me about a 15-minute walk from Frankfurt-Bahnhofsviertel to the school to witness the reality of homeless drug addicts. As members of society, they are highly visible but also invisible at the same time. A painful and sad sight for humanity collectively.
+It took me about a 15-minute walk from Frankfurt-Bahnhofsviertel to the school to witness the reality of homeless drug addicts. As members of society, they are highly visible but also invisible at the same time. A painful and depressing sight for humanity collectively.
 
 * * * * *
 
