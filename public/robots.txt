@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.farhanazrupaidha.com
+
+# Sitemaps
+Sitemap: https://www.farhanazrupaidha.com/sitemap.xml
