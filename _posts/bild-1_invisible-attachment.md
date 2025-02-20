@@ -1,7 +1,7 @@
 ---
 title: "BILD: 1_INVISIBLE ATTACHMENT"
 excerpt: "Visible - invisible, far and near, rich and poor, healthy and ill, crowded and lonely, lost and directed, sadness and happiness, shame and love, pain and reality."
-coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1739563806/jackplan-user/rpmphcdabtjo9g2gqqsa.jpg"
+coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1739563831/jackplan-user/lqwanopggssefguyrcrw.jpg"
 date: "2025-02-07T05:35:07.322Z"
 author:
   name: Farhanaz Rupaidha
@@ -21,12 +21,16 @@ ogImage:
 
 * * * * *
 
-It took me about a 15-minute walk from Frankfurt-Bahnhofsviertel to the school to witness the reality of homeless drug addicts. As members of society, they are highly visible but also invisible at the same time. A painful and depressing sight for humanity collectively.
+It took me about a 15-minute walk from Frankfurt-Bahnhofsviertel to the school to witness the reality of homeless drug addicts. Each time they come near me they always ask for 1 Euro. Interestingly, on several occasions, I found the image of the Vitruvian Man created by Leonardo Da Vinci when I flipped the one Euro coin. Everything then became very contradictory. Between Frankfurt as a financial hub with homeless people who are only asking for 1 Euro, the bodies of homeless drug addicts who are no longer perfect with the proportional body image created by Leonardo Da Vinci through the Vitruvian Man, the hustle and bustle of the city centre and the loneliness experienced by the homeless.
 
-Visible - invisible, far and near, rich and poor, healthy and ill, crowded and lonely, lost and directed, sadness and happiness, shame and love, pain and reality.
+As members of society, they are highly visible but also invisible at the same time. A painful and depressing sight for humanity collectively.
+
+Between one and another the words to describe the condition might be suitable as visible - invisible, far and near, rich and poor, healthy and ill, crowded and lonely, lost and directed, sadness and happiness, shame and love, pain and reality.
+
 
 * * * * *
 
+![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563806/jackplan-user/rpmphcdabtjo9g2gqqsa.jpg)
 
 ![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563819/jackplan-user/j0pe3kglgpvawartspuu.jpg)
 
