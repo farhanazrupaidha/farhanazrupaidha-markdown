@@ -29,6 +29,13 @@ Refresh is a-two series of Android applications which demonstrates the changing
 
  *Deconstruction Reconstruction: Babel still image*
 
+![](https://res.cloudinary.com/studiofruworks/image/upload/v1740128669/jackplan-user/l4g3ds0rovoiplhklzoz.jpg)
+
+![](https://res.cloudinary.com/studiofruworks/image/upload/v1740128678/jackplan-user/fwnwwz67jqqawroosspl.jpg)
+
+ *Deconstruction Reconstruction: Babel installation view*
+
+
 ![](https://res.cloudinary.com/studiofruworks/image/upload/v1710833586/jackplan-user/ufw7ckt4k16tytrrtkni.png)
 
 *Deconstruction Reconstruction: Bloom still image*
@@ -36,3 +43,4 @@ Refresh is a-two series of Android applications which demonstrates the changing
 ![](https://res.cloudinary.com/studiofruworks/image/upload/v1710833642/jackplan-user/s8lelezpmrr2iywu88nm.png)
 
 *Deconstruction Reconstruction: Refresh still image*
+

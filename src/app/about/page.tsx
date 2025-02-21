@@ -70,7 +70,7 @@ export default function Index() {
         <p>[2020]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div>Manifesto VII Pandemi, Online Exhibition - initiated by National Gallery of Indonesia, Jakarta - Indonesia</div>
+        <div>Manifesto VII Pandemi, Online Exhibition - initiated by the National Gallery of Indonesia, Jakarta - Indonesia</div>
         </li>
         <li>
         <div>Pameran Daring Solidaritas Perupa Indonesia Lawan Corona 2020, Online Exhibition initiated by The Ministry of Culture and Education of Indonesia, Jakarta - Indonesia</div>
@@ -172,7 +172,7 @@ export default function Index() {
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>OTHER PROJECTS</Typography>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div>[2022 - presents] Biodiversity archivist and documentation, lake Setu Patok Cirebon conservation - Studiofru | Green Project&nbsp;<a title="https://www.studiofrugreenproject.com" href="https://www.studiofrugreenproject.com/">https://studiofrugreenproject.com</a></div>
+        <div>[2022 - presents] Biodiversity archivist and documentation, lake Setu Patok Cirebon conservation - Studiofru | Green Project&nbsp;<a title="https://www.studiofrugreenproject.com" href="https://www.studiofrugreenproject.com/">https://www.studiofrugreenproject.com</a></div>
         </li>
         <li>
         <div>[2022] Data Analyst Consultant for Yayasan Wangsakerta, ISBS &amp; Pemerintah Desa Kedungrejo, Banyuwangi - Jawa Timur</div>
