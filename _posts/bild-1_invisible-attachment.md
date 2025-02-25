@@ -1,7 +1,7 @@
 ---
 title: "BILD: 1_INVISIBLE ATTACHMENT"
 excerpt: "Visible - invisible, far and near, rich and poor, healthy and ill, crowded and lonely, lost and directed, sadness and happiness, shame and love, pain and reality."
-coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1739563831/jackplan-user/lqwanopggssefguyrcrw.jpg"
+coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1740509691/jackplan-user/pleqq7urqcais6jm2fmw.jpg"
 date: "2025-02-07T05:35:07.322Z"
 author:
   name: Farhanaz Rupaidha
@@ -30,31 +30,31 @@ Between one and another the words to describe the condition might be suitable as
 
 * * * * *
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563806/jackplan-user/rpmphcdabtjo9g2gqqsa.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1740509398/jackplan-user/ze1fviwwvzcn8e7gxgfz.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563819/jackplan-user/j0pe3kglgpvawartspuu.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1740509393/jackplan-user/zsg1uypfkjfvtluaeigf.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563829/jackplan-user/cabtcffes048ksqz4xrz.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1740509395/jackplan-user/qun50qghpofw4txkv0e4.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563825/jackplan-user/jayhmhdfbdivbcqg9xgs.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1740511147/jackplan-user/ga0a33b90lcf7mbipbuz.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563827/jackplan-user/ai9ylmj8s7lqptld68k0.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1740511229/jackplan-user/h2evzc8tfkjne9zz9l6s.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563829/jackplan-user/hruosdzete7eakxqenvt.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1739563829/jackplan-user/hruosdzete7eakxqenvt.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563831/jackplan-user/lqwanopggssefguyrcrw.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1739563831/jackplan-user/lqwanopggssefguyrcrw.jpg)
 
 
 * * * * *
 
 **Video stills**
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563998/jackplan-user/am2hrnq9b0eheae6onjn.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1739563998/jackplan-user/am2hrnq9b0eheae6onjn.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739563998/jackplan-user/xmr5uzn4iyzuq2c42gjw.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1739563998/jackplan-user/xmr5uzn4iyzuq2c42gjw.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739564002/jackplan-user/jvrg9oxys2k8n0y7sx2r.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1739564002/jackplan-user/jvrg9oxys2k8n0y7sx2r.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739564001/jackplan-user/h7f0gd9ojh37vqnqh21w.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1739564001/jackplan-user/h7f0gd9ojh37vqnqh21w.jpg)
 
-![](https://res.cloudinary.com/studiofruworks/image/upload/v1739565214/jackplan-user/vyvwfmzqbdztcbtmrzcz.jpg)
+![Bild_1: Invisible Attachment | Farhanaz Rupaidha](https://res.cloudinary.com/studiofruworks/image/upload/v1739565214/jackplan-user/vyvwfmzqbdztcbtmrzcz.jpg)
