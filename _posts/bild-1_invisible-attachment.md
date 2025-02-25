@@ -1,7 +1,7 @@
 ---
 title: "BILD: 1_INVISIBLE ATTACHMENT"
 excerpt: "Visible - invisible, far and near, rich and poor, healthy and ill, crowded and lonely, lost and directed, sadness and happiness, shame and love, pain and reality."
-coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1740509691/jackplan-user/pleqq7urqcais6jm2fmw.jpg"
+coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1740512320/jackplan-user/pleqq7urqcais6jm2fmw.jpg"
 date: "2025-02-07T05:35:07.322Z"
 author:
   name: Farhanaz Rupaidha
