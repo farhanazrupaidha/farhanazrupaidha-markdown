@@ -27,6 +27,8 @@ export default function ResponsiveStack() {
     </section>    
     <Box sx={{ maxWidth: 800, m:'auto', mb:10, mt:10, overflow: 'hidden' }}>
     <Box sx={{mr:2, ml:2}}>
+      <Typography>email to: farhanaz.rupaidha@gmail.com</Typography>
+      <Typography>or simply fill the form below</Typography>
     <iframe
              src="https://tally.so/embed/nGxgAp?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
              width="100%"

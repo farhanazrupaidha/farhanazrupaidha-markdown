@@ -1,6 +1,6 @@
 ---
 title: "Rice Walk"
-excerpt: "An audiovisual performance that attempts to retrace the history of rice cultivation in Southeast Asia"
+excerpt: "An audiovisual performance that attempts to retrace the history of rice cultivation in Southeast Asia."
 coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1742444678/jackplan-user/qj67hu83qibzyuk9marp.png"
 date: "2025-03-12T05:35:07.322Z"
 author:
@@ -12,7 +12,7 @@ ogImage:
 **Rice Walk**
 
 
-Audiovisual live performance
+Audiovisual live performance set
 
 2025
 
