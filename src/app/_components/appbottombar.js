@@ -6,12 +6,10 @@ import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import IconButton from '@mui/material/IconButton';
 import { styled } from '@mui/material/styles';
+import Avatar from '@mui/material/Avatar';
 
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import FacebookIcon from '@mui/icons-material/Facebook';
-import PinterestIcon from '@mui/icons-material/Pinterest';
-import XIcon from '@mui/icons-material/X';
 
 const Item = styled(Box)(({ theme }) => ({
   ...theme.typography.body2,
@@ -38,6 +36,9 @@ export default function AppBottomBar () {
           </IconButton>
           <IconButton href="https://www.instagram.com/farhanazrupaidha/" color="secondary" aria-label="Follow me on Instagram">
             <InstagramIcon />
+          </IconButton>
+          <IconButton href="https://farhanazrupaidha.bandcamp.com" color="secondary" aria-label="Follow me on Bandcamp">
+          <Avatar alt="Bandcamp" sx={{ width: 24, height: 24 }} src="/images/bandcamp-button-circle-line-aqua-256.png" />
           </IconButton>
         </Item>
 
