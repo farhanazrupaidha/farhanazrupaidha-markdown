@@ -13,6 +13,7 @@ ogImage:
 
 
 Watercolour and oil on paper
+21 x 29.7 cm each
 
 2024 - presents
 
