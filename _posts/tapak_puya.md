@@ -27,12 +27,12 @@ Menilik kembali adat yang diturunkan oleh leluhur melalui pehamanan Puya dan tra
 ------
 
 The Rambu Solo tradition, which dates back to at least the 9th century AD in Tana Toraja, continues to be practiced for generations. Unfortunately, the most prominent and most discussed element of the Rambu Solo tradition is the economic element by looking at the number of animals sacrificed in the ceremony. The spatial strategy and respect for ancestors and the family nature that is closely related to the culture of the Rambu Solo tradition seems to be marginalized from memory. 
+
 On the other hand, the understanding of Puya as told by the ancestors in Tana Toraja seems need to be re-understood. Is it always true what we have understood so far that the Rambu Solo tradition as a traditional ceremony of final respect is only for ancestors who are ready to move to the afterlife? Or, is there a reciprocity for the living generation in the form of an expanse of agricultural land that is ready to be planted because the graves of ancestors and relatives are inserted in cliffs and trees and the birth cycle of animals that are always ready to help various life activities? 
+
 Revisiting the customs passed down by the ancestors through the understanding of Puya and the Rambu Solo tradition through decorative motifs and the natural environment of Tana Toraja is actually also to re-understand the ways of life of ancestors and ancestors who always respect natural conditions and love their descendants.  
 
  
-
-
 * * * * *
 
 ![](https://res.cloudinary.com/studiofruworks/image/upload/v1735044303/jackplan-user/o007nkue80bd97ytxtkv.jpg)
