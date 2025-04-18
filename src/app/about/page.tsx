@@ -29,16 +29,21 @@ export default function Index() {
         </Box>
       </Box>
       <Box sx={{mb:10}}>
-        <p>Born in 1990, Bekasi, Indonesia</p>
-        <p>Lives and works in Frankfurt, Germany</p>
+      <p><strong>Farhanaz Rupaidha</strong> (b. 1990, Bekasi, Indonesia) is a contemporary media artist whose work intersects technology, history, ecology and the human condition. Currently based in Frankfurt, Germany, Rupaidha explores themes of digital identity, environmental transformation, and cultural memory through video installations, algorithmic art, and interactive media.</p>
+<p>A graduate of Universitas Negeri Jakarta who is currently undertaking her studies at the St&auml;delschule, Rupaidha has consistently pushed the boundaries of how digital tools and conceptual art can converge. Her practice incorporates multi-channel video, installation, generative visuals, and interactive elements, often challenging viewers in how they experience presence, history, and truth in a hyperconnected world.</p>
+<p>Beyond visual art, Rupaidha is also an experimental musician. Her sonic explorations, serve as ambient extensions of her visual installations, blending field recordings, abstract noise, and digital manipulations.</p>
+<p>Through her multidisciplinary approach, Farhanaz Rupaidha continues to redefine the role of contemporary media in addressing collective memory, ecological urgency, and digital futures.</p>
         <p>&nbsp;</p>
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>EDUCATION</Typography>
         <p>[2024 - ]&nbsp;Fine Arts, Prof. Haegue Yang&nbsp;-&nbsp;Hochschule f&uuml;r Bildende K&uuml;nste - St&auml;delschule, Frankfurt - Germany</p>
         <p>[2008 - 2014] Bachelor of Education (B.Ed) - Visual Art Education Department - Universitas Negeri Jakarta, Jakarta - Indonesia</p>
         <p>&nbsp;</p>
-        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>SELECTED EXHIBITIONS/SCREENINGS</Typography>
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>SELECTED EXHIBITIONS/SCREENINGS/PERFORMANCES</Typography>
         <p>[2025]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
+        <li>
+        <div>TEAROOM RELAY — COLLOQUIAL 2025, Vietnam Art Collective, Hanoi - Vietnam</div>
+        </li>          
         <li>
         <div>Rundgang 2025, Städelschule, Frankfurt - Germany</div>
         </li>
@@ -149,13 +154,6 @@ export default function Index() {
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
         <div>Creative&rsquo;s Creative&rsquo;s Crative&rsquo;s (3C&rsquo;S) 2011, Korean Culture Center, Jakarta &ndash; Indonesia</div>
-        </li>
-        </ol>
-        <p>&nbsp;</p>
-        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>PERFORMANCE</Typography>
-        <ol className="list-decimal my-6 list-outside ml-20">
-        <li>
-        <div>TEAROOM RELAY — COLLOQUIAL 2025, Vietnam Art Collective, Hanoi - Vietnam</div>
         </li>
         </ol>
         <p>&nbsp;</p>
