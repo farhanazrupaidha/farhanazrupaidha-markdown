@@ -23,7 +23,8 @@ Dimulai pada tahun 2022 saya telah melakukan proses pengarsipan dan pendokumenta
 
 Dari penelitian yang saya lakukan terhadap tumbuhan – tumbuhan tersebut saya menemukan banyak hal menarik yang tidak hanya seputar unsur biologisnya saja, namun pula sejarah panjang pembudidayaannya. Banyak sekali tumbuhan yang tidak secara asli berasal dari Indonesia melainkan dibawa entah melalui jalur perdagangan atau melalui kolonialisasi di masa lampau. Penggunaannya yang beragam terutama berdasarkan kepercayaan lokal secara turun – temurun yang kemudian dibuktikan secara klinis telah menyumbangkan kekayaan pengetahuan masyarakat yang perlu untuk dicatat.
 
-Kebetulan dimulai pada tahun yang sama Yayasan Wangsakerta juga mulai melakukan kegiatan konservasi pada area danau Setu Patok. Melalui kolaborasi dengan masyarakat setempat cita – cita ketahanan pangan dan mengembalikan fungsi danau serta hutan sebagai wilayah yang tidak hanya demi keindahan lingkungan namun juga wilayah yang dapat menghidupi masyarakat setempat diharapkan untuk dapat terwujud.   
+Kebetulan dimulai pada tahun yang sama Yayasan Wangsakerta juga mulai melakukan kegiatan konservasi pada area danau Setu Patok. Melalui kolaborasi dengan masyarakat setempat cita – cita ketahanan pangan dan mengembalikan fungsi danau serta hutan sebagai wilayah yang tidak hanya demi keindahan lingkungan namun juga wilayah yang dapat menghidupi masyarakat setempat diharapkan untuk dapat terwujud. 
+  
 Lukisan – lukisan yang dibuat kemudian merupakan upaya ekstensif dari kegiatan pendokumentasian. Karya tersebut dibuat pada berbagai tanggal sejak tahun 2024, dengan beberapa spesies tumbuhan masih belum memiliki identifikasi taksonomi dan beberapa lainnya diyakini endemik di wilayah tersebut.
 
 ------
