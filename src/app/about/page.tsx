@@ -30,7 +30,7 @@ export default function Index() {
       </Box>
       <Box sx={{mb:10}}>
       <p><strong>Farhanaz Rupaidha</strong> (b. 1990, Bekasi, Indonesia) is a contemporary artist whose work intersects technology, history, ecology and the human condition. Currently based in Frankfurt, Germany, Rupaidha explores themes of digital identity, environmental transformation, and cultural memory through video installations, algorithmic art, and interactive media.</p>
-      <p>A graduate of Universitas Negeri Jakarta who is currently undertaking her studies at the St&auml;delschule, Rupaidha has consistently pushed the boundaries of how digital tools and conceptual art can converge. Her practice incorporates multi-channel video, installation, generative visuals, and interactive elements, often challenging viewers in how they experience presence, history, and truth in a hyperconnected world.</p>
+      <p>A graduate of Universitas Negeri Jakarta who is currently undertaking her studies at the St&auml;delschule, Rupaidha has consistently pushed the boundaries of how digital tools and conceptual art can converge. Her practice incorporates multi-channel video, installations, generative visuals, and interactive elements, often challenging viewers in how they experience presence, history, and truth in a hyperconnected world.</p>
       <p>Beyond visual art, Rupaidha is also an experimental musician. Her sonic explorations, serve as ambient extensions of her visual installations, blending field recordings, abstract noise, and digital manipulations.</p>
       <p>Through her multidisciplinary approach, Farhanaz Rupaidha continues to redefine the role of contemporary media in addressing collective memory, ecological urgency, and digital futures.</p>
         <p>&nbsp;</p>
