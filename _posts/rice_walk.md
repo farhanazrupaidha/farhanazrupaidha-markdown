@@ -36,3 +36,6 @@ Rice as one of the staple foods of Asian and Southeast Asian communities in part
 
 ![Rice Walk Still Image - 4](https://res.cloudinary.com/studiofruworks/image/upload/v1742442480/jackplan-user/cbql1ndgdlsqqtliky3x.png)
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2690002124/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://farhanazrupaidha.bandcamp.com/track/bayang-1-eksponen-a-farhanaz-rupaidha">Bayang 1 - Eksponen A - Farhanaz Rupaidha by Farhanaz Rupaidha</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2027104335/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://farhanazrupaidha.bandcamp.com/track/bayang-2-eksponen-b-farhanaz-rupaidha">Bayang 2 - Eksponen B - Farhanaz Rupaidha by Farhanaz Rupaidha</a></iframe>
