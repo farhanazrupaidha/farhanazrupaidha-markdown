@@ -19,6 +19,7 @@ Audiovisual live performance set
 * * * * *
 
 This project began in February 2025 as an extension of the lake Setu Patok conservation area documentation project. Throughout the documentation process through literature research, many facts were discovered about the various plants found in the lake Setu Patok area. Such as naming, social and biological functions and the history of the cultivation journey. 
+
 Rice as one of the staple foods of Asian and Southeast Asian communities in particular has a long history of cultivation. Tracing back the history of its cultivation journey is felt to provide another picture related to food issues in Southeast Asia. 
 
 
@@ -36,6 +37,10 @@ Rice as one of the staple foods of Asian and Southeast Asian communities in part
 
 ![Rice Walk Still Image - 4](https://res.cloudinary.com/studiofruworks/image/upload/v1742442480/jackplan-user/cbql1ndgdlsqqtliky3x.png)
 
+https://www.youtube.com/watch?v=lsCKyHeIr8s
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2690002124/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://farhanazrupaidha.bandcamp.com/track/bayang-1-eksponen-a-farhanaz-rupaidha">Bayang 1 - Eksponen A - Farhanaz Rupaidha by Farhanaz Rupaidha</a></iframe>
+
+https://www.youtube.com/watch?v=EBpp5tsa1B4
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2027104335/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://farhanazrupaidha.bandcamp.com/track/bayang-2-eksponen-b-farhanaz-rupaidha">Bayang 2 - Eksponen B - Farhanaz Rupaidha by Farhanaz Rupaidha</a></iframe>
