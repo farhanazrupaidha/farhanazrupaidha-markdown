@@ -80,6 +80,13 @@ function DrawerToggle () {
                       Works
                     </ListItemText>
                   </ListItemButton>
+                </ListItem> 
+                <ListItem disablePadding>
+                  <ListItemButton href="https://farhanazrupaidha.bandcamp.co">
+                    <ListItemText>
+                      Music
+                    </ListItemText>
+                  </ListItemButton>
                 </ListItem>             
           </List>        
         <Divider sx={{m:1}} />

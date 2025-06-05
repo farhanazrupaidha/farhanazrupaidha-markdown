@@ -42,7 +42,10 @@ export default function Index() {
         <p>[2025]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div>TEAROOM RELAY — COLLOQUIAL 2025, Vietnam Art Collective, Hanoi - Vietnam</div>
+        <div>TEAROOM RELAY_SHOULDER 2025, Kunstinstituut Melly, Rotterdam - Netherlands</div>
+        </li> 
+        <li>
+        <div>TEAROOM RELAY_COLLOQUIAL 2025, Vietnam Art Collective, Hanoi - Vietnam</div>
         </li>          
         <li>
         <div>Rundgang 2025, Städelschule, Frankfurt - Germany</div>
