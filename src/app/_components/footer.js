@@ -59,6 +59,11 @@ export default function Footer () {
                     Works
                 </Link>
             </Typography>
+          <Typography variant="body1" gutterBottom>
+                <Link "href=https://farhanazrupaidha.bandcamp.com" underline="hover" color='inherit'>
+                    Music
+                </Link>
+            </Typography>
         </Box>        
         <Box sx={{maxWidth:250, width:'100%'}}>
             <Typography variant="h6" sx={{fontWeight: 'bold'}} gutterBottom>
