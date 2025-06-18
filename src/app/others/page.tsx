@@ -41,6 +41,24 @@ export default function Index() {
             <Typography variant='h3' sx={{fontWeight:"bold", mb: 2}}>Studiofru | Green Project</Typography>
             <Typography variant="body1" color="secondary" sx={{mb:2}}><Link href="https://studiofrugreenproject.com">studiofrugreenproject.com</Link></Typography>
             <Typography variant="body1" color="secondary" sx={{mb:5}}>A digital platform</Typography>
+            <Typography variant="body1" sx={{mb:1}}>Technology used</Typography>
+            <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
+                <Item2>
+                    <Chip label="Next.js" variant="outlined"  />
+                </Item2>
+                <Item2>
+                    <Chip label="Markdown" variant="outlined"  />
+                </Item2>
+                <Item2>
+                    <Chip label="Cloudinary" variant="outlined"  />
+                </Item2>
+                <Item2>
+                    <Chip label="Material UI" variant="outlined"  />
+                </Item2>
+                <Item2>
+                    <Chip label="Vercel" variant="outlined"  />
+                </Item2>
+            </Stack>
         </Item>
 
         <Item>
@@ -96,6 +114,21 @@ export default function Index() {
             <Typography variant='h3' sx={{fontWeight:"bold", mb: 2}}>Yayasan Wangsakerta</Typography>
             <Typography variant="body1" color="secondary" sx={{mb:2}}><Link href="https://www.yayasanwangsakerta.org">yayasanwangsakerta.com</Link></Typography>
             <Typography variant="body1" color="secondary" sx={{mb:5}}>A profile website</Typography>
+            <Typography variant="body1" sx={{mb:1}}>Technology used</Typography>
+            <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
+                <Item2>
+                    <Chip label="Next.js" variant="outlined"  />
+                </Item2>
+                <Item2>
+                    <Chip label="Hygraph CMS" variant="outlined"  />
+                </Item2>
+                <Item2>
+                    <Chip label="Material UI" variant="outlined"  />
+                </Item2>
+                <Item2>
+                    <Chip label="Vercel" variant="outlined"  />
+                </Item2>
+            </Stack>
         </Item> 
     </Stack>      
     </Box>
