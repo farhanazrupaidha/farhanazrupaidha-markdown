@@ -60,7 +60,7 @@ export default function Footer () {
                 </Link>
             </Typography>
           <Typography variant="body1" gutterBottom>
-                <Link "href=https://farhanazrupaidha.bandcamp.com" underline="hover" color='inherit'>
+                <Link href="https://farhanazrupaidha.bandcamp.com" underline="hover" color='inherit'>
                     Music
                 </Link>
             </Typography>
