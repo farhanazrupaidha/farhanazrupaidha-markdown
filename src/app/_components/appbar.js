@@ -115,6 +115,13 @@ function ResponsiveAppBar(props) {
                   >
                       Music
               </Button>  
+                  <Button
+                      href="/others"
+                      color= 'secondary'
+                      sx={{ my: 2, display: 'block' }}
+                  >
+                      Others
+              </Button> 
               <Button
                       href="/about"
                       color= 'secondary'
