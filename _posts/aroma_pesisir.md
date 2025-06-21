@@ -1,5 +1,5 @@
 ---
-title: "Aroma Pesisir"
+title: "Aroma Pesisir/Coastal Scents"
 excerpt: "An audiovisual performance that is loosely based on the procession of Nadran in Cirebon, West Java, Indonesia."
 coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1750523771/jackplan-user/x4autz2yzjrchu3h1cvd.png"
 date: "2025-06-21T05:35:07.322Z"
