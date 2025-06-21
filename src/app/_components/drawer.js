@@ -98,9 +98,9 @@ function DrawerToggle () {
             </ListItem>
               <Divider sx={{mr:5}} />
                 <ListItem disablePadding>
-                  <ListItemButton href="https://studiofrugreenproject.com">
+                  <ListItemButton href="/others">
                     <ListItemText>
-                      Studiofru | Green Project
+                      Other Projects
                     </ListItemText>
                   </ListItemButton>
                 </ListItem>             

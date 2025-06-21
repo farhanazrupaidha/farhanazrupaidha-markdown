@@ -14,6 +14,8 @@ ogImage:
 
 Audiovisual live performance set
 
+22 min
+
 2025
 
 * * * * *
