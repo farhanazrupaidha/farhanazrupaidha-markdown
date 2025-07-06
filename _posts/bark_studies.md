@@ -42,6 +42,6 @@ The paintings that were made later were an extensive effort from the documentati
 
 ![Bark Study 1](https://res.cloudinary.com/studiofruworks/image/upload/v1742454689/jackplan-user/mwysuhjwatxo52vuckzd.jpg)
 
-![Bark Study 3](https://res.cloudinary.com/studiofruworks/image/upload/v1745392431/jackplan-user/oapq03ddqg9ljjx5x4qy.jpg)
+![Bark Study 3](https://res.cloudinary.com/studiofruworks/image/upload/v1751819712/jackplan-user/bxoa5pynrlf3btdhxuly.jpg)
 
 ![Bark Study 4](https://res.cloudinary.com/studiofruworks/image/upload/v1745392433/jackplan-user/wyotrxvxvggyq2zby8d8.jpg)
