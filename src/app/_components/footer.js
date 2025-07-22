@@ -24,7 +24,7 @@ export default function Footer () {
         justifyContent="center"
         alignItems="left"
       >
-        <Box sx={{maxWidth:700, width:'100%'}}>
+        <Box sx={{maxWidth:800, width:'100%'}}>
         <Typography variant='h3' sx={{height:'80px', mt:1, mb:3}}>
         <Typewriter
               options={{
@@ -35,7 +35,7 @@ export default function Footer () {
             />
         </Typography>  
         </Box>
-        <Box sx={{maxWidth:150, width:'100%'}}>
+        <Box sx={{maxWidth:170, width:'100%'}}>
             <Typography variant="h6" sx={{fontWeight: 'bold'}} gutterBottom>
                 Profile
             </Typography>
@@ -50,7 +50,7 @@ export default function Footer () {
                 </Link>
             </Typography>
         </Box>
-        <Box sx={{maxWidth:150, width:'100%'}}>
+        <Box sx={{maxWidth:170, width:'100%'}}>
             <Typography variant="h6" sx={{fontWeight: 'bold'}} gutterBottom>
                 Explore
             </Typography>
@@ -65,7 +65,7 @@ export default function Footer () {
                 </Link>
             </Typography>
         </Box>        
-        <Box sx={{maxWidth:250, width:'100%'}}>
+        <Box sx={{maxWidth:270, width:'100%'}}>
             <Typography variant="h6" sx={{fontWeight: 'bold'}} gutterBottom>
                 Others
             </Typography>

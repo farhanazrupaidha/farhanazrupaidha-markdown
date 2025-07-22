@@ -81,7 +81,7 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;500;700&display=swap" rel="stylesheet" />
       </head>
       <body
-        className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
+        className={`${inter.className} "dark:bg-slate-900 dark:text-slate-400"`}
       >
         <ThemeRegistry>
         <ResponsiveAppBar />

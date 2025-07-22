@@ -26,7 +26,7 @@ export default function AppBottomBar () {
   <Box justifyContent="center" alignItems="center" sx={{ml:2, mr:2}}>
      <Stack
         direction={{ xs: 'column', sm: 'row' }}
-        spacing={{ xs: 1, sm: 2, md: 60 }}
+        spacing={{ xs: 1, sm: 2, md: 90 }}
         justifyContent="center"
         alignItems="center"
       >

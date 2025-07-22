@@ -1,4 +1,4 @@
-import { Arvo } from 'next/font/google';
+import { Arvo, Inter } from 'next/font/google';
 import { createTheme } from '@mui/material/styles';
 import {  green, cyan, blueGrey } from '@mui/material/colors';
 
@@ -20,6 +20,9 @@ export const primary = "#00bfbf";
 export const black = "#111111";
 export const white = "#fafafa";
 
+const arvo = Arvo({ subsets: ['latin'], weight: ['400', '700'], display: 'swap' });
+const inter = Inter({ subsets: ['latin'], weight: ['400'], display: 'swap' });
+
 const theme = createTheme({
   palette: {
     mode: 'dark',
@@ -35,36 +38,37 @@ const theme = createTheme({
           },
   },          
   typography: {
+    fontFamily: inter.style.fontFamily, // Default for body
     h1: {
-      fontFamily: "Arvo",
+      fontFamily: arvo.style.fontFamily,
       fontWeight: 700,
     },
     h2: {
-      fontFamily: "Arvo",
+      fontFamily: arvo.style.fontFamily,
       fontWeight: 700,
     },
     h3: {
-      fontFamily: "Arvo",
+      fontFamily: arvo.style.fontFamily,
       fontWeight: 700,
     },
     h4: {
-      fontFamily: "Arvo",
+      fontFamily: arvo.style.fontFamily,
       fontWeight: 700,
     },
     h5: {
-      fontFamily: "Arvo",
+      fontFamily: arvo.style.fontFamily,
       fontWeight: 700,
     },
     h6: {
-      fontFamily: "Arvo",
+      fontFamily: arvo.style.fontFamily,
       fontWeight: 700,
     },                    
     button: {
-      fontFamily: "Arvo",
+      fontFamily: arvo.style.fontFamily,
       fontWeight: 700,
     },
     body1: {
-      fontFamily: "Inter",
+      fontFamily: inter.style.fontFamily,
     }
   },
   components: {
