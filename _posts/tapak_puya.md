@@ -48,3 +48,51 @@ Revisiting the customs passed down by ancestors through the understanding of Puy
 ![](https://res.cloudinary.com/studiofruworks/image/upload/v1735045028/jackplan-user/veyer3ynlii4imdpc8pp.jpg)
 
 https://www.youtube.com/watch?v=WXz9Nth5E4k
+
+-----
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538116/jackplan-user/bcfsxjvzalonvypcmzqo.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538117/jackplan-user/g8cfouiizgt4tykkcyjo.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538117/jackplan-user/ed0dd9aiigx5etoq2fto.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538118/jackplan-user/qqdwg9ikg4dug1m9znwk.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538118/jackplan-user/ssxultsct9ahjrjunrdn.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538116/jackplan-user/fhpov6pg6l0ylvzzwkbw.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538117/jackplan-user/qjl9sif5xovmsbeoj2aw.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538116/jackplan-user/l6r7xdjkq9nd2dbxkw3x.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538116/jackplan-user/cgtlhs2zhy2cnxlsc2qi.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538115/jackplan-user/n0qxzf47okpfr2qr9cnd.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538116/jackplan-user/zgip7pxoussbhvbmalpj.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538115/jackplan-user/ks4ud1qlkg5nim6ewnro.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538115/jackplan-user/fzd7euh4160j1frfuzco.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538114/jackplan-user/jzw58eyp3gruhk9njakh.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538114/jackplan-user/teh67i26zxd1sn9vw1yh.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538115/jackplan-user/rke1jt739piemeiskgoa.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538114/jackplan-user/dtsactfq2rck4r7v9lwm.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538115/jackplan-user/lew1jxtcpfn8svxuwaso.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538112/jackplan-user/tt55j795ga9c9c5lwbzw.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538059/jackplan-user/irqzrzhnxymaifxu9tjp.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538040/jackplan-user/tyadbedyvzmsl8nsyqtj.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1753538026/jackplan-user/cas3jtgtmvxxkehn0gxo.jpg)
+
+https://youtu.be/Ims5kkI3_Cw
