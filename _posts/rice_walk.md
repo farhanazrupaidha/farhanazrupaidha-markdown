@@ -20,9 +20,28 @@ Audiovisual live performance set
 
 * * * * *
 
-This project began in February 2025 as an extension of the lake Setu Patok conservation area documentation project. Throughout the documentation process through literature research, many facts were discovered about the various plants found in the lake Setu Patok area. Such as naming, social and biological functions and the history of the cultivation journey. 
+Selama ribuan tahun, negara-negara di Asia Tenggara terus mengonsumsi beras sebagai makanan pokok utama, khususnya varietas yang berasal dari Oryza sativa japonica. Namun, hanya sedikit yang mengetahui sejarah panjang pembudidayaan padi dan asal-usulnya sebagai tanaman pangan utama.
 
-Rice as one of the staple foods of Asian and Southeast Asian communities in particular has a long history of cultivation. Tracing back the history of its cultivation journey is felt to provide another picture related to food issues in Southeast Asia. 
+Penelitian arkeologis menunjukkan bahwa padi pertama kali didomestikasi di Lembah Sungai Yangtze, China Selatan, sekitar 10.000–6.000 tahun yang lalu. Dari wilayah tersebut, para petani yang bermigrasi membawa tanaman ini ke arah selatan, memperkenalkannya ke Vietnam Utara—terutama di kawasan Delta Sungai Merah—sekitar 4.000 – 3.500 tahun yang lalu. Seiring waktu, padi menggantikan sumber karbohidrat sebelumnya, seperti umbi-umbian, dan menjadi makanan pokok utama.
+
+Penyebaran padi ke seluruh kawasan Asia Tenggara daratan terjadi sekitar 3.000–2.000 tahun yang lalu, dimulai dari Vietnam Utara dan meluas ke Laos melalui Sungai Mekong bagian hulu, ke Kamboja melalui dataran rendah Tonle Sap, serta ke wilayah utara dan timur laut Thailand.
+
+Sedangkan penyebaran padi ke kawasan maritim Asia Tenggara seperti Filipina, Indonesia dan Malaysia terjadi pada sekitar kurang lebih 2.000 – 1.000 tahun lalu.
+
+Beras, sebagai salah satu makanan pokok masyarakat Asia dan khususnya Asia Tenggara, memiliki sejarah panjang dalam pembudidayaannya. Menelusuri kembali perjalanan sejarah pembudidayaan ini dirasa dapat memberikan gambaran lain terkait isu pangan di Asia Tenggara.
+
+* * * * *
+
+For thousands of years, the nations of Southeast Asia have continued to consume rice as their primary staple food, particularly varieties derived from Oryza sativa japonica. Yet few are aware of the deep history of rice cultivation and its origins as a principal food crop.
+
+Archaeological research indicates that rice was first domesticated in the Yangtze River Valley of southern China approximately 10,000–6,000 years ago. From there, migrating farmers carried the crop southward, introducing it to northern Vietnam—most notably the Red River Delta—around 4,000–3,500 years ago. Over time, rice supplanted earlier carbohydrate sources, such as tubers, to become the dominant staple.
+
+The dissemination of rice across mainland Southeast Asia occurred roughly 3,000–2,000 years ago, beginning in northern Vietnam and extending to Laos via the upper Mekong River, to Cambodia through the Tonle Sap lowlands, and to northern and northeastern regions of Thailand.
+
+In the maritime regions of Southeast Asia, rice cultivation spread later, reaching the Philippines, Indonesia, and Malaysia approximately 2,000 –1 ,000 years ago.
+
+Rice as one of the staple foods of Asian and Southeast Asian communities in particular has a long history of cultivation. Tracing back the history of its cultivation journey is felt to provide another picture related to food issues in Southeast Asia.
+
 
 
 * * * * *
