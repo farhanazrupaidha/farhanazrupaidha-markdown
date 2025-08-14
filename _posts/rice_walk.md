@@ -34,11 +34,11 @@ Beras, sebagai salah satu makanan pokok masyarakat Asia dan khususnya Asia Tengg
 
 For thousands of years, the nations of Southeast Asia have continued to consume rice as their primary staple food, particularly varieties derived from Oryza sativa japonica. Yet few are aware of the deep history of rice cultivation and its origins as a principal food crop.
 
-Archaeological research indicates that rice was first domesticated in the Yangtze River Valley of southern China approximately 10,000–6,000 years ago. From there, migrating farmers carried the crop southward, introducing it to northern Vietnam—most notably the Red River Delta—around 4,000–3,500 years ago. Over time, rice supplanted earlier carbohydrate sources, such as tubers, to become the dominant staple.
+Archaeological research indicates that rice was first domesticated in the Yangtze River Valley of southern China approximately 10,000 – 6,000 years ago. From there, migrating farmers carried the crop southward, introducing it to northern Vietnam—most notably the Red River Delta—around 4,000–3,500 years ago. Over time, rice supplanted earlier carbohydrate sources, such as tubers, to become the dominant staple.
 
 The dissemination of rice across mainland Southeast Asia occurred roughly 3,000–2,000 years ago, beginning in northern Vietnam and extending to Laos via the upper Mekong River, to Cambodia through the Tonle Sap lowlands, and to northern and northeastern regions of Thailand.
 
-In the maritime regions of Southeast Asia, rice cultivation spread later, reaching the Philippines, Indonesia, and Malaysia approximately 2,000 –1 ,000 years ago.
+In the maritime regions of Southeast Asia, rice cultivation spread later, reaching the Philippines, Indonesia, and Malaysia approximately 2,000 – 1 ,000 years ago.
 
 Rice as one of the staple foods of Asian and Southeast Asian communities in particular has a long history of cultivation. Tracing back the history of its cultivation journey is felt to provide another picture related to food issues in Southeast Asia.
 
