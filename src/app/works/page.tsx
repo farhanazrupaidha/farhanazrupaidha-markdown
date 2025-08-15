@@ -24,7 +24,7 @@ export default function Index() {
         <Box sx={{mb:10}}>
             <center>
                 <Typography variant='h2' color="secondary" sx={{fontWeight:"bold"}}>
-                <Marquee>Works</Marquee>
+                <Marquee>Selected Works</Marquee>
                 </Typography>
             </center>
         </Box>
