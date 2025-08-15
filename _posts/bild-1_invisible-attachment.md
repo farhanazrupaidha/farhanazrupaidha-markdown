@@ -12,9 +12,16 @@ ogImage:
 **BILD: 1_INVISIBLE ATTACHMENT**
 
 
-2 hand embossing on paper in aluminium frames, 2 neon tubes with 2 programmed mechanical timers each for 15 minutes, 1 HD video with colour and sound, 3:04 min, 21 x 29.7 cm each
+2 hand embossing on paper in aluminium frames, 2 neon tubes with 2 programmed mechanical timers each for 15 minutes
+
+21 x 29.7 cm each
+
+1 HD video with colour and sound
+
+3:04 min
 
 2025
+
 
 * * * * *
 

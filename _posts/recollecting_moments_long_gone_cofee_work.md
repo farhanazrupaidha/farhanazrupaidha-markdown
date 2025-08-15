@@ -1,6 +1,6 @@
 ---
 title: "Recollecting Moments Long Gone: Coffee Work #1"
-excerpt: "An audiovisual performance that attempts to retrace the history of rice cultivation in Southeast Asia."
+excerpt: "One small, almost mundane moment—finishing a coffee from a paper cup—became a point of reflection for me about work."
 coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1755243667/jackplan-user/kmxnwrtbhti12tjj0o7n.jpg"
 date: "2025-08-15T05:35:07.322Z"
 author:
@@ -10,6 +10,12 @@ ogImage:
   url: "https://res.cloudinary.com/studiofruworks/image/upload/v1710920420/jackplan-user/bdl8jghrq7mk3epp85fg.jpg"
 ---
 **Recollecting Moments Long Gone: Coffee Work #1**
+
+1 recycled coffee cup paper with printed personal archive photograph and dried leaves in alumunium frame
+
+15,5 x 25 cm
+
+2025
 
 Saya berpindah ke Frankfurt, Jerman untuk melanjutkan studi seni rupa pada tahun 2024. Beberapa masa setelah terjadinya pandemi Covid serta carut marut politik dalam negeri yang menimbulkan keresahan finansial dan sosial di Indonesia. Momen nyata di mana banyak masyarakat yang mulai berpikir untuk hijrah ke luar negeri demi mendapatkan kehidupan yang lebih baik melalui ketersediaan pekerjaan. 
 
