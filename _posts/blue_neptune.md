@@ -11,7 +11,7 @@ ogImage:
 ---
 **Blue Neptune** 
 
-1 Game/Virtual Environment, 2023
+1 virtual world, 2023
 
 Hardware needed for operation:
 
