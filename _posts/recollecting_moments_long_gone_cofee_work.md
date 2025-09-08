@@ -1,5 +1,5 @@
 ---
-title: "Recollecting Moments Long Gone: Coffee Work #1"
+title: "Recollecting Moments Long Gone: Coffee Work"
 excerpt: "The awareness of finishing a coffee from a paper cup led me to think about work."
 coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1755243667/jackplan-user/kmxnwrtbhti12tjj0o7n.jpg"
 date: "2025-08-15T05:35:07.322Z"
@@ -9,13 +9,9 @@ author:
 ogImage:
   url: "https://res.cloudinary.com/studiofruworks/image/upload/v1710920420/jackplan-user/bdl8jghrq7mk3epp85fg.jpg"
 ---
-**Recollecting Moments Long Gone: Coffee Work #1**
+**Recollecting Moments Long Gone: Coffee Work**
 
-1 sheet of recycled paper made from paper coffee cups with dried leaves and a printed personal archival photograph in an aluminum frame
-
-15,5 x 25 cm
-
-2025
+Variable dimension
 
 * * * * *
 
@@ -43,6 +39,27 @@ Between what is slow to process and what moves more quickly; between what contin
 
 ![recollecting moments long gone: coffee work #1](https://res.cloudinary.com/studiofruworks/image/upload/v1755243314/jackplan-user/zb1u0onzaung5d8r6d1v.jpg)
 
+**Recollecting Moments Long Gone: Coffee Work #1**
+
+1 sheet of recycled paper made from paper coffee cups with dried leaves and a printed personal archival photograph in an aluminum frame
+
+15,5 x 25 cm
+
+2025
+
+-----
+
+
+![recollecting moments long gone: coffee work #2](https://res.cloudinary.com/studiofruworks/image/upload/v1757355715/jackplan-user/lwead6diolhxtrwxrn1u.jpg)
+
+**Recollecting Moments Long Gone: Coffee Work #2**
+
+1 sheet of recycled paper made from paper coffee cups with green leaves, dried leaves and a printed personal archival photograph in an aluminum frame
+
+15,5 x 25 cm
+
+2025
+
 -----
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1755243287/jackplan-user/gzwh1hhnwl8swfzc5k5r.jpg)
@@ -52,3 +69,15 @@ Between what is slow to process and what moves more quickly; between what contin
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1755243318/jackplan-user/vivusrruufxtgnrtdsdc.jpg)
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1755243482/jackplan-user/cejftztygzbk9rtqqnae.jpg)
+
+-----
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1757357089/jackplan-user/iyvhhz0gxqturhiyephh.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1757355861/jackplan-user/ezljra2pc098ofmcsqsi.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1757355873/jackplan-user/jyem1bpiqjah6wyogl8t.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1757355874/jackplan-user/nrhnciosvxo5yr2kygba.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1757355876/jackplan-user/f1xqisybpl1bia7ryflc.jpg)
