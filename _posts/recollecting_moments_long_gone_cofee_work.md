@@ -15,24 +15,21 @@ Variable dimension
 
 * * * * *
 
-Saya berpindah ke Frankfurt, Jerman untuk melanjutkan studi seni rupa pada tahun 2024. Beberapa masa setelah terjadinya pandemi Covid serta carut marut politik dalam negeri yang menimbulkan keresahan finansial dan sosial di Indonesia. Momen nyata di mana banyak masyarakat yang mulai berpikir untuk hijrah ke luar negeri demi mendapatkan kehidupan yang lebih baik melalui ketersediaan pekerjaan.  
-
 Kesadaran untuk menghabiskan kopi dari gelas berbahan kertas mengantarkan saya pada hubungan perihal bekerja. Terutama ketika budaya mengkonsumsi kopi selalu dikaitkan dengan kegiatan bekerja.
 
-Di Indonesia, umumnya kopi yang dibeli untuk dibawa pergi dikemas dalam gelas berbahan plastik. Sedangkan di Eropa, kopi tersebut dikemas dalam gelas berbahan kertas. Saya mendapati fenomena siklus dari proses pembauran material antara plastik dan kertas seperti bertolak belakang. Dengan plastik, tidak mudah bagi saya sebagai seorang individu untuk dapat mendaur ulang material dasarnya. Sedangkan dengan kertas, proses daur ulang terasa lebih mudah. 
+Pikiran saya menggeluti pertanyaan – pertanyaan perihal bagaimana proses bekerja terus berubah terutama dengan berkembangnya teknologi dan keadaan sosial suatu masyarakat. Serta, apakah kegiatan bekerja selalu harus demi uang dan kebanggaan atau kehidupan dan alam?
 
-Antara yang lamban dan yang lebih cepat berproses serta yang terus tumbuh dan yang mengering bersamaan dengan dedaunan. Kumpulan kenangan yang diolah menjadi sesuatu yang baru dan yang terjebak dalam aktivitas bertahan hidup.
+Dengan cara mempelajari momen – momen yang terekam dalam dokumentasi foto dan menghadirkannya kembali dalam eksperimentasi kertas daur ulang saya berupaya untuk memvisualisasikan pertanyaan – pertanyaan tersebut. 
+
 
 
 * * * * *
 
-I moved to Frankfurt, Germany in 2024 to continue my studies in fine art. This was sometime after the Covid-19 pandemic and the turbulence of domestic politics, which had stirred financial and social unrest in Indonesia. It was a moment when many people began to consider moving abroad in search of a better life through the availability of work.
+The awareness of finishing coffee from a paper cup led me to reflect on the idea of work—especially since the culture of consuming coffee is often associated with working activities.
 
-The awareness of finishing a coffee from a paper cup led me to think about work—particularly when the culture of drinking coffee is so often associated with working activity.
+My thoughts dwell on questions about how the processes of working continue to change, particularly with the development of technology and the social conditions of a society. Also, whether working must always be for money and pride, or for life and nature.
 
-In Indonesia, takeaway coffee is generally served in plastic cups, while in Europe it comes in paper cups. I found the cyclical process of material integration between plastic and paper to be almost in opposition. With plastic, it is not easy for me as an individual to recycle its base material, whereas with paper, the recycling process feels much easier.
-
-Between what is slow to process and what moves more quickly; between what continues to grow and what dries up along with the falling leaves. A collection of memories transformed into something new, and those trapped in the daily act of survival.
+By studying moments captured in photographic documentation and re-presenting them through experiments with recycled paper, I attempt to visualize these questions.
 
 
 -----
@@ -62,6 +59,20 @@ Between what is slow to process and what moves more quickly; between what contin
 
 -----
 
+
+![recollecting moments long gone: coffee work #3](https://res.cloudinary.com/studiofruworks/image/upload/v1759249072/jackplan-user/x6tqtrilkl60nvjm9x48.jpg)
+
+**Recollecting Moments Long Gone: Coffee Work #3**
+
+1 sheet of recycled paper made from paper coffee cups with rice grains, dried leaves and a printed personal archival photograph in an aluminum frame
+
+15,5 x 25 cm
+
+2025
+
+
+-----
+
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1755243287/jackplan-user/gzwh1hhnwl8swfzc5k5r.jpg)
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1755243324/jackplan-user/xvn1z9ozwmw7fpqiycme.jpg)
@@ -81,3 +92,13 @@ Between what is slow to process and what moves more quickly; between what contin
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1757355874/jackplan-user/nrhnciosvxo5yr2kygba.jpg)
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1757355876/jackplan-user/f1xqisybpl1bia7ryflc.jpg)
+
+-----
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1759249125/jackplan-user/kpn5ujrvjqehqk3v8vi3.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1759249309/jackplan-user/if1op7l7jetcwxq1ttnt.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1759249236/jackplan-user/xf5opsmnim6juvjtnbhg.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1759249367/jackplan-user/y5jbwgofqd9ujuyzmrgz.jpg)
