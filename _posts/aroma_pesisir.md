@@ -9,7 +9,7 @@ author:
 ogImage:
   url: "https://res.cloudinary.com/studiofruworks/image/upload/v1710920420/jackplan-user/bdl8jghrq7mk3epp85fg.jpg"
 ---
-**Rice Walk**
+**Aroma Pesisir/Coastal Scent**
 
 
 Audiovisual live performance set
