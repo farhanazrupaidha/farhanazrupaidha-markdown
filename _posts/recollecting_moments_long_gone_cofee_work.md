@@ -11,7 +11,11 @@ ogImage:
 ---
 **Recollecting Moments Long Gone: Coffee Work**
 
-Variable dimension
+Recycled paper with variations of organic materials and printed archival photographs in aluminium frames
+
+15,5 x 25 cm each
+
+2025 - presents
 
 * * * * *
 
