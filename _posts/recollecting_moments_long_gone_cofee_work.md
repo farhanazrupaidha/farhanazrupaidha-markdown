@@ -42,7 +42,7 @@ By studying moments captured in photographic documentation and re-presenting the
 
 **Recollecting Moments Long Gone: Coffee Work #1**
 
-1 sheet of recycled paper made from paper coffee cups with dried leaves and a printed personal archival photograph in an aluminum frame
+1 sheet of recycled paper made from paper coffee cups with dried leaves and a printed personal archival photograph in an aluminium frame
 
 15,5 x 25 cm
 
@@ -55,7 +55,7 @@ By studying moments captured in photographic documentation and re-presenting the
 
 **Recollecting Moments Long Gone: Coffee Work #2**
 
-1 sheet of recycled paper made from paper coffee cups with green leaves, dried leaves and a printed personal archival photograph in an aluminum frame
+1 sheet of recycled paper made from paper coffee cups with green leaves, dried leaves and a printed personal archival photograph in an aluminium frame
 
 15,5 x 25 cm
 

@@ -43,12 +43,19 @@ The paintings that were made later were an extensive effort from the documentati
 
 ![Bark Study 1](https://res.cloudinary.com/studiofruworks/image/upload/v1742454689/jackplan-user/mwysuhjwatxo52vuckzd.jpg)
 
-### Bark Study 1
+### Bark Study 1: unknown
+
+**
 
 ![Bark Study 3](https://res.cloudinary.com/studiofruworks/image/upload/v1751819712/jackplan-user/bxoa5pynrlf3btdhxuly.jpg)
 
-### Bark Study 3
+### Bark Study 3: Kemiri (Aleurites moluccanus)
 
+pohon ini dinyatakan endemi dan dapat ditemukan di area situs makam Pangeran Glotak.
+
+This tree is classified as endemic and can be found in the area of Prince Glotak’s tomb site.
+
+**
 
 ![Bark Study 4](https://res.cloudinary.com/studiofruworks/image/upload/v1745392433/jackplan-user/wyotrxvxvggyq2zby8d8.jpg)
 
@@ -57,3 +64,5 @@ The paintings that were made later were an extensive effort from the documentati
 pohon ini dinyatakan endemi dan dapat ditemukan di area situs makam Pangeran Glotak.
 
 This tree is classified as endemic and can be found in the area of Prince Glotak’s tomb site.
+
+**
