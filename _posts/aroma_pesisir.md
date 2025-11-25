@@ -38,7 +38,7 @@ Dalam Arak - Arakan suara dari hasil rekaman video selama arak - arakan digubah 
 
 **Nadran or Sedekah Laut (Sea Offering)** is carried out over the course of one day, beginning in the morning with a procession of offerings in the form of large statues accompanied by loud music and dances, shadow puppet performances, and the chanting of sacred songs by a puppeteer, prayers over water contained in buckets, and the ritual of casting miniature boats with offerings and a buffalo head into the sea.
 
-The procession moves from within the fishing village to the main road and along the riverbank where boats are docked. Crowds of people---young and old, men and women---pour into the streets, singing and dancing. Many others also gather along the main road simply to watch.
+The procession moves from within the fishing village to the main road and along the riverbank where boats are docked. Crowds of people, young and old, men and women, pour into the streets, singing and dancing. Many others also gather along the main road simply to watch.
 
 Meanwhile, as the procession continues, *wayang* or a shadow puppet performance is held during the day in the village courtyard by the river where the boats are anchored. The atmosphere remains traditional, with songs and chants in the Cirebonese language.
 
@@ -73,6 +73,15 @@ In the *Arak-Arakan*, sounds from video recordings taken during the procession w
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1750523769/jackplan-user/z40tek8ffr23oidhzbvt.png)
 
 -----
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1764100072/jackplan-user/nshzfzfoodblumvtxao9.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1764100169/jackplan-user/kvmovsbddcel8xax7ggi.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1764100212/jackplan-user/b4vikj2lchcbtkfvbiri.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1764100413/jackplan-user/zcozzglvhi4zdrb6eha2.jpg)
+
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1809421896/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://farhanazrupaidha.bandcamp.com/track/arak-arakan">Arak - Arakan by Farhanaz Rupaidha</a></iframe>
 
