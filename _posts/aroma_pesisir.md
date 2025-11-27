@@ -87,6 +87,8 @@ In the *Arak-Arakan*, sounds from video recordings taken during the procession w
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3085410820/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://farhanazrupaidha.bandcamp.com/track/sepenggal-kidung-larung">Sepenggal Kidung Larung by Farhanaz Rupaidha</a></iframe>
 
+https://youtu.be/Pgli44wGynw
+
 -----
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1750503269/jackplan-user/okjelkeybgfiayl1h3cu.jpg)
