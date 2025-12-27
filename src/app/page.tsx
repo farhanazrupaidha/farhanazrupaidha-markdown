@@ -12,18 +12,33 @@ export default function Index() {
   return (
     <>
       <Container>
-      <Box
-        display="flex"
-        justifyContent="center"
-        alignItems="center"
-        minHeight="55vh"
-      >
-        <Marquee direction="left">
-          <Typography variant="h1" gutterBottom>
-            Imagine sleeping without ears. &nbsp;
-          </Typography>
-        </Marquee> 
-      </Box>
+        <Typography variant="h5" sx={{mt:5}}>2026</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="right">
+            <Typography variant="h1" gutterBottom>
+              don't fold too much. &nbsp;
+            </Typography>
+          </Marquee> 
+        </Box>        
+        <Typography variant="h5" sx={{mt:5}}>2025</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="left">
+            <Typography variant="h1" gutterBottom>
+              Imagine sleeping without ears. &nbsp;
+            </Typography>
+          </Marquee> 
+        </Box>
+
       </Container>
     </>
   );

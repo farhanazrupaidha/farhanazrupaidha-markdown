@@ -43,9 +43,6 @@ export default function Index() {
         <li>
         <div>TEAROOM RELAY_COLLOQUIAL 2025, Vietnam Art Collective, Hanoi - Vietnam</div>
         </li>          
-        <li>
-        <div>Rundgang 2025, Städelschule, Frankfurt - Germany</div>
-        </li>
         </ol>
         <p>[2024]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
