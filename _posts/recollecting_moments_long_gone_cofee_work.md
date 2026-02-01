@@ -1,6 +1,6 @@
 ---
 title: "Recollecting Moments Long Gone: Coffee Work"
-excerpt: "The awareness of finishing a coffee from a paper cup led me to think about work."
+excerpt: "Peasant groups often carried out aksi sepihak (unilateral actions) by occupying land before legal processes were completed, and the TNI increasingly believed that the PKI (Indonesian Communist Party) was using land reform to expand its power in the countryside."
 coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1755243667/jackplan-user/kmxnwrtbhti12tjj0o7n.jpg"
 date: "2025-08-15T05:35:07.322Z"
 author:
@@ -11,68 +11,31 @@ ogImage:
 ---
 **Recollecting Moments Long Gone: Coffee Work**
 
-Recycled paper with variations of organic materials and printed archival photographs in aluminium frames
-
-15,5 x 25 cm each
-
-2025 - presents
+2 paper-mache sheets made of coffee cups with rice, dried leaves, and ID card-sized archival photographs, 16 of 3 x 1 mm size magnets, 10 of 20 x 20 mm size pipe clamps, and a 3M VHB tape
+15 x 25 cm each
 
 * * * * *
 
-Kesadaran untuk menghabiskan kopi dari gelas berbahan kertas mengantarkan saya pada hubungan perihal bekerja. Terutama ketika budaya mengkonsumsi kopi selalu dikaitkan dengan kegiatan bekerja.
+The Dutch VOC brought coffee from Yemen (Mocha) to Batavia in the late 1600s. It was later developed in Java and Sumatra through the Forced Cultivation System (Cultuurstelsel).
 
-Pikiran saya menggeluti pertanyaan – pertanyaan perihal bagaimana proses bekerja terus berubah terutama dengan berkembangnya teknologi dan keadaan sosial suatu masyarakat. Serta, apakah kegiatan bekerja selalu harus demi uang dan kebanggaan atau kehidupan dan alam?
+Indonesia declared its independence on August 17, 1945.
 
-Dengan cara mempelajari momen – momen yang terekam dalam dokumentasi foto dan menghadirkannya kembali dalam eksperimentasi kertas daur ulang saya berupaya untuk memvisualisasikan pertanyaan – pertanyaan tersebut. 
+The PRRI (West Sumatra) and Permesta (North Sulawesi) rebellions (1957--1958) arose from regional inequality, government dissatisfaction, and military unrest.
 
+On May 18, 1958, pilot Allen Lawrence Pope was shot down by the Indonesian Air Force over Ambon and captured, revealing CIA involvement.
 
+UUPA 1960, enacted by Soekarno, abolished colonial land law, established state control of land, limited ownership, allowed redistribution, and recognized adat law and land's social function.
 
-* * * * *
+When agrarian reform was implemented (especially in the early 1960s), many land conflicts occurred between peasants and landlords and between peasants and companies.
 
-The awareness of finishing coffee from a paper cup led me to reflect on the idea of work—especially since the culture of consuming coffee is often associated with working activities.
+Peasant groups often carried out "aksi sepihak" (unilateral actions) by occupying land before legal processes were completed, and the TNI increasingly believed that the PKI (Indonesian Communist Party) was using land reform to expand its power in the countryside.
 
-My thoughts dwell on questions about how the processes of working continue to change, particularly with the development of technology and the social conditions of a society. Also, whether working must always be for money and pride, or for life and nature.
-
-By studying moments captured in photographic documentation and re-presenting them through experiments with recycled paper, I attempt to visualize these questions.
+The mass anti-communist killings took place in 1965 and resulted in the deaths of at least 500,000 to over one million deaths.
 
 
 -----
 
-![recollecting moments long gone: coffee work #1](https://res.cloudinary.com/studiofruworks/image/upload/v1755243314/jackplan-user/zb1u0onzaung5d8r6d1v.jpg)
-
-**Recollecting Moments Long Gone: Coffee Work #1**
-
-1 sheet of recycled paper made from paper coffee cups with dried leaves and a printed personal archival photograph in an aluminium frame
-
-15,5 x 25 cm
-
-2025
-
------
-
-
-![recollecting moments long gone: coffee work #2](https://res.cloudinary.com/studiofruworks/image/upload/v1757355715/jackplan-user/lwead6diolhxtrwxrn1u.jpg)
-
-**Recollecting Moments Long Gone: Coffee Work #2**
-
-1 sheet of recycled paper made from paper coffee cups with green leaves, dried leaves and a printed personal archival photograph in an aluminium frame
-
-15,5 x 25 cm
-
-2025
-
------
-
-
-![recollecting moments long gone: coffee work #3](https://res.cloudinary.com/studiofruworks/image/upload/v1759249072/jackplan-user/x6tqtrilkl60nvjm9x48.jpg)
-
-**Recollecting Moments Long Gone: Coffee Work #3**
-
-1 sheet of recycled paper made from paper coffee cups with rice grains, dried leaves and a printed personal archival photograph in an aluminum frame
-
-15,5 x 25 cm
-
-2025
+![recollecting moments long gone: coffee work](https://res.cloudinary.com/studiofruworks/image/upload/v1769953975/jackplan-user/g9ugr0dvri1lykvg9tke.jpg)
 
 
 -----

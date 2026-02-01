@@ -19,7 +19,7 @@
 }
 
 .markdown ol {
-  @apply text-sm list-decimal my-6 list-outside;
+  @apply text-sm list-decimal my-6 list-inside;
 }
 
 .markdown table {
