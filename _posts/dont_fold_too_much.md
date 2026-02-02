@@ -114,3 +114,5 @@ In 2025, widespread dissatisfaction with government policies in Indonesia sparke
 During the 2025 Indonesian riots, some demonstrations escalated into looting and saw a resurgence of anti-Chinese sentiment, reflecting both opportunistic crime and lingering historical tensions.
 
 Illegal logging operations in Indonesia often transport timber at night to avoid detection by authorities.
+
+&rarr; [Download as pdf](https://drive.google.com/file/d/1RjCnizzSOpeyEqMZCkH50xHUHgymtXYO/view?usp=sharing)
