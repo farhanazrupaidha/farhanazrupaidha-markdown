@@ -21,7 +21,7 @@ export default function Index() {
         >
           <Marquee direction="right">
             <Typography variant="h1" gutterBottom>
-              don't fold too much. &nbsp;
+              Don't fold too much. &nbsp;
             </Typography>
           </Marquee> 
         </Box>        
