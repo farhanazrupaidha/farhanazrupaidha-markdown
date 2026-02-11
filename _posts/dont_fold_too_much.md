@@ -1,7 +1,7 @@
 ---
 title: "Don't Fold Too Much"
-excerpt: "A cycle of work made between 2025 - 2026"
-coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1770068916/jackplan-user/njnus196mmttqb6z9o0y.jpg"
+excerpt: "A cycle of artworks made between 2025 - 2026"
+coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1770842434/jackplan-user/wvup3ytt3n6nmm7n3u94.jpg"
 date: "2026-02-02T05:35:07.322Z"
 author:
   name: Farhanaz Rupaidha
@@ -16,7 +16,7 @@ ogImage:
 3 posters and 1 photograph in an aluminium frame
 29.7 x 42 cm each and 14.8 x 21 cm
 
-![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770069756/jackplan-user/l8q8hjgyvczi6t6t0sqq.jpg)
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842557/jackplan-user/ux8twiflpin3yseio0rj.jpg)
 
 In the 1990s, fold-out posters of public figures were commonly included in magazines.
 
@@ -67,10 +67,10 @@ The mass anti-communist killings took place in 1965 and resulted in the deaths o
 
 2026
 
-Watercolour and acrylic with hand embossing on paper, 5 meter long chain, a spotlight lamp, and a 80 cm aluminium rod
+Watercolour and acrylic with hand embossing on paper, 5 meter long chain, a neon lamp, and a 98,3 cm aluminium rod
 200 x 200 cm
 
-![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770070321/jackplan-user/vs8olgktqvvuluk1uxyf.jpg)
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842436/jackplan-user/r2rwkzexvmritykqzdmi.jpg)
 
 Sugarcane was cultivated in Java as early as the early 1600s while coffee was introduced by the VOC from Yemen around 1696–1699 and roselle was introduced in the 19th–early 20th century.
 
@@ -99,6 +99,10 @@ Variable dimension
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770070874/jackplan-user/dfekficeccox7mcvep8g.jpg)
 
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842440/jackplan-user/rwssvrfbuynlxmmm4bzi.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842437/jackplan-user/fkrznb2xlo3suuwk1n2j.jpg)
+
 Early 2000s – Large-scale illegal logging and palm oil expansion began inside Tesso Nilo National Park in Riau, Sumatera.
 
 Expanding palm oil plantations force Sumatran elephants into plantations, where some are killed, often by suspected poisoning.
@@ -115,4 +119,4 @@ During the 2025 Indonesian riots, some demonstrations escalated into looting and
 
 Illegal logging operations in Indonesia often transport timber at night to avoid detection by authorities.
 
-&rarr; [Download as pdf](https://drive.google.com/file/d/1RjCnizzSOpeyEqMZCkH50xHUHgymtXYO/view?usp=sharing)
+&rarr; [Download as pdf](https://drive.google.com/file/d/1RLgI89bJfXV9mlyxifzoo5aEebz9rBvu/view?usp=sharing)

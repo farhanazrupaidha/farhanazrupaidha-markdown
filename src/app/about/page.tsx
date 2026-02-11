@@ -156,6 +156,9 @@ export default function Index() {
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>AWARDS/SCHOLARSHIPS</Typography>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
+        <div>DekaBank Rundgangpreis 2026</div>
+        </li>
+        <li>
         <div>Deutschlandstipendium 2025 - 2026</div>
         </li>
         <li>
