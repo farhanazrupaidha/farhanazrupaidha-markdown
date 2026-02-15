@@ -47,9 +47,6 @@ export default function Index() {
         <p>[2024]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div>MIVA Festival: XVIII Expanded Narratives Edition,&nbsp;Casa de la Cultura Ecuatoriana Benjamín Carrión, Quito - Ecuador</div>
-        </li>
-        <li>
         <div>Jelajah Jala, Festival Komunitas Seni Media 2024,&nbsp;initiated by The Indonesian Ministry of Education, Culture, Research and Technology, Benteng Rotterdam, Kota Makassar - Indonesia</div>
         </li>
         </ol>
