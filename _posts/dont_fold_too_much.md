@@ -16,7 +16,7 @@ ogImage:
 3 posters and 1 photograph in an aluminium frame
 29.7 x 42 cm each and 14.8 x 21 cm
 
-![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842557/jackplan-user/ux8twiflpin3yseio0rj.jpg)
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771186977/jackplan-user/cesggkrzpcntoxxjiyrj.jpg)
 
 In the 1990s, fold-out posters of public figures were commonly included in magazines.
 
