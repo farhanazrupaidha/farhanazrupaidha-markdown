@@ -72,6 +72,8 @@ Watercolour and acrylic with hand embossing on paper, 5 meter long chain, a neon
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842436/jackplan-user/r2rwkzexvmritykqzdmi.jpg)
 
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770917043/jackplan-user/jislussdljmqflgkwfod.jpg)
+
 Sugarcane was cultivated in Java as early as the early 1600s while coffee was introduced by the VOC from Yemen around 1696–1699 and roselle was introduced in the 19th–early 20th century.
 
 Under the Cultuurstelsel (Cultivation System, 1830–1870s), the Dutch forced Javanese farmers to grow cash crops, especially sugar with farmers having to dedicate 20% of their land or labor to sugarcane for export.
@@ -100,6 +102,10 @@ Variable dimension
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770070874/jackplan-user/dfekficeccox7mcvep8g.jpg)
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842440/jackplan-user/rwssvrfbuynlxmmm4bzi.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770917891/jackplan-user/cfn7htqnp04nhphzv27m.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770917897/jackplan-user/jzkhu312hzoflsdnucfu.jpg)
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842437/jackplan-user/fkrznb2xlo3suuwk1n2j.jpg)
 
