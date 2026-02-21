@@ -11,7 +11,9 @@ ogImage:
 ---
 Ground
 
-Web-based and computer software interactive art installation with scattered cable laying on the floor and a red cable lamp, 2019
+2019
+
+Web-based and computer software interactive art installation with scattered cable laying on the floor and a red cable lamp
 
 * * * * *
 

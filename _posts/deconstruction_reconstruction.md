@@ -11,7 +11,11 @@ ogImage:
 ---
 **Deconstruction Reconstruction**
 
-Variable dimension, Android application-based series interactive art, 2018 - 2020
+2018 - 2020
+
+Android application-based series interactive art
+
+Variable dimensions
 
 * * * * *
 

@@ -11,7 +11,10 @@ ogImage:
 ---
 **Recollecting Moments Long Gone: Coffee Work**
 
+2025
+
 2 paper-mache sheets made of coffee cups with rice, dried leaves, and ID card-sized archival photographs, 16 of 3 x 1 mm size magnets, 10 of 20 x 20 mm size pipe clamps, and a 3M VHB tape
+
 15 x 25 cm each
 
 * * * * *
@@ -35,7 +38,7 @@ The mass anti-communist killings took place in 1965 and resulted in the deaths o
 
 -----
 
-![recollecting moments long gone: coffee work](https://res.cloudinary.com/studiofruworks/image/upload/v1769953975/jackplan-user/g9ugr0dvri1lykvg9tke.jpg)
+![recollecting moments long gone: coffee work](https://res.cloudinary.com/studiofruworks/image/upload/v1771673310/jackplan-user/nr94buuvduffc1kildlt.jpg)
 
 
 -----

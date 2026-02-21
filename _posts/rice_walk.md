@@ -11,12 +11,11 @@ ogImage:
 ---
 **Rice Walk**
 
+2025
 
 Audiovisual live performance set
 
 22 min
-
-2025
 
 * * * * *
 

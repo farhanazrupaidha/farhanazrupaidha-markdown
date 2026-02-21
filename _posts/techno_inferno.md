@@ -11,7 +11,11 @@ ogImage:
 ---
 **Techno Inferno**
 
-5'24 min, single-channel video, 2019
+2019
+
+single-channel video
+
+5'24 min
 
 * * * * *
 

@@ -11,7 +11,9 @@ ogImage:
 ---
 **Blue Neptune** 
 
-1 virtual world, 2023
+2023
+
+A participatory computer software
 
 Hardware needed for operation:
 

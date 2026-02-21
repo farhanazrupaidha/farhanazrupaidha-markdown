@@ -13,8 +13,10 @@ ogImage:
 
 Collaborative work: **Farhanaz Rupaidha x Agnes Hansella x Barak Aziz Malinggi**
 
-1 virtual world, 1 windows PC dengan setidaknya 8GB RAM, 1 set speaker, 1 proyektor, 1  gamepad, tikar, print-out teks
 2024
+
+A participatory computer software 1 windows PC dengan setidaknya 8GB RAM, 1 set speaker, 1 proyektor, 1  gamepad, tikar, print-out teks
+
 
 * * * * *
 

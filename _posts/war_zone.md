@@ -11,7 +11,11 @@ ogImage:
 ---
 **War Zone**
 
-Single channel video, 3'00 min, 2024
+2024
+
+Single channel video
+
+3'00 min
 
 * * * * *
 

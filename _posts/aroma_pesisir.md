@@ -11,12 +11,11 @@ ogImage:
 ---
 **Aroma Pesisir/Coastal Scent**
 
+2025
 
 Audiovisual live performance set
 
-12 min
-
-2025
+14 min
 
 * * * * *
 

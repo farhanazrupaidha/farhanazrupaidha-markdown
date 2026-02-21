@@ -11,7 +11,9 @@ ogImage:
 ---
 **Nadiah** 
 
-Photography series, 2015
+2015 
+
+Photography series
 
 * * * * *
 

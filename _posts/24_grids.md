@@ -11,7 +11,9 @@ ogImage:
 ---
 **24 Grids Living in Harmony of Dust and Heat**
 
-5'00 min, multi-channel video - sync, 2014
+2014
+
+5'00 min, multi-channel video - sync
 
 * * * * *
 

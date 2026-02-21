@@ -43,7 +43,7 @@ In 2025, Soeharto was posthumously named a National Hero alongside Abdurrahman W
 2 paper-mache sheets made of coffee cups with rice, dried leaves, and ID card-sized archival photographs, 16 of 3 x 1 mm size magnets, 10 of 20 x 20 mm size pipe clamps, and a 3M VHB tape
 15 x 25 cm each
 
-![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1769953975/jackplan-user/g9ugr0dvri1lykvg9tke.jpg)
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771673310/jackplan-user/nr94buuvduffc1kildlt.jpg)
 
 The Dutch VOC brought coffee from Yemen (Mocha) to Batavia in the late 1600s. It was later developed in Java and Sumatra through the Forced Cultivation System (Cultuurstelsel).
 
@@ -99,7 +99,15 @@ Mooi Indië itself was originally the title of eleven reproductions of the water
 A participatory computer software that will reset every 6 minutes, a gamepad, two headphones, a Windows operating system computer with at least 8gb RAM, a 43-inch TV, a 2,4 meter height and 1.6 meter wide black wall  
 Variable dimension
 
-![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770070874/jackplan-user/dfekficeccox7mcvep8g.jpg)
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771671909/jackplan-user/cmbdnuxhoidgm192rofh.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771671908/jackplan-user/tplifbaiedyci6dpkocv.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771671908/jackplan-user/etfdjk78fpkm3nth2dpo.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771671909/jackplan-user/atgmuaseoxrpyk0rcc6l.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771671911/jackplan-user/xodvdzyiepp7kfjs3nmm.jpg)
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842440/jackplan-user/rwssvrfbuynlxmmm4bzi.jpg)
 

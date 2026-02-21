@@ -11,12 +11,11 @@ ogImage:
 ---
 **Bark Studies**
 
+2024 - ongoing
 
 Watercolour and oil on paper
 
 21 x 29.7 cm each
-
-2024 - presents
 
 * * * * *
 
@@ -30,13 +29,14 @@ Lukisan – lukisan yang dibuat kemudian merupakan upaya ekstensif dari kegiatan
 
 ------
 
-Starting in 2022, I have been archiving and documenting plants and animals found in the Lake Setu Patok area, Cirebon. Until now, more than a hundred species of plants have been collected, which I then summarised on the website https://www.studiofrugreenproject.com.
+Since 2022, I have been archiving and documenting plant and animal species found in the Lake Setu Patok area, Cirebon. To date, more than one hundred plant species have been recorded and compiled on the website https://www.studiofrugreenproject.com
+.
 
-From my research on these plants, I found many interesting things about their biological elements and the long history of their cultivation. Many plants are not native to Indonesia but were brought either through trade routes or through colonisation in the past. Their diverse uses, especially based on local beliefs passed down from generation to generation, which were then clinically proven, have provided a lot of community knowledge that needs to be recorded.
+Through this research, I have discovered compelling insights into the biological characteristics of these species as well as the long histories of their cultivation. Many of the plants are not native to Indonesia; rather, they were introduced through historical trade routes and periods of colonisation. Their diverse uses—particularly those rooted in local beliefs passed down through generations and later supported by clinical findings—reflect a rich body of community knowledge that deserves careful documentation and preservation.
 
-Coincidentally, starting in the same year, the Wangsakerta Foundation also began conservation activities in the Lake Setu Patok area. Through collaboration with the local community, the ideals of food security and restoring the function of the lake and forest as an area that is not only for the beauty of the environment but also an area that can support the local community are expected to be realised.
+In the same year, the Wangsakerta Foundation initiated conservation activities in the Lake Setu Patok area. Through collaboration with the local community, the foundation promotes food security and seeks to restore the ecological function of the lake and surrounding forest—not only as a landscape of environmental beauty, but also as a sustainable resource that supports local livelihoods.
 
-The paintings that were made later were an extensive effort from the documentation activities. The works were made on various dates since 2024, with some plant species still lacking taxonomic identification and others believed to be endemic to the region.
+The paintings produced from 2024 onwards represent an extended outcome of this documentation process. Created on various dates, these works interpret the recorded species visually. Some of the depicted plants are still undergoing taxonomic identification, while others are believed to be endemic to the region.
 
 
 * * * * *
