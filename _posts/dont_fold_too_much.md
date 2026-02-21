@@ -14,6 +14,7 @@ ogImage:
 2025
 
 3 posters and 1 photograph in an aluminium frame
+
 29.7 x 42 cm each and 14.8 x 21 cm
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771186977/jackplan-user/cesggkrzpcntoxxjiyrj.jpg)
@@ -41,6 +42,7 @@ In 2025, Soeharto was posthumously named a National Hero alongside Abdurrahman W
 2025
 
 2 paper-mache sheets made of coffee cups with rice, dried leaves, and ID card-sized archival photographs, 16 of 3 x 1 mm size magnets, 10 of 20 x 20 mm size pipe clamps, and a 3M VHB tape
+
 15 x 25 cm each
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771673310/jackplan-user/nr94buuvduffc1kildlt.jpg)
@@ -68,6 +70,7 @@ The mass anti-communist killings took place in 1965 and resulted in the deaths o
 2026
 
 Watercolour and acrylic with hand embossing on paper, 5 meter long chain, a neon lamp, and a 98,3 cm aluminium rod
+
 200 x 200 cm
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842436/jackplan-user/r2rwkzexvmritykqzdmi.jpg)
@@ -97,7 +100,8 @@ Mooi Indië itself was originally the title of eleven reproductions of the water
 2026
 
 A participatory computer software that will reset every 6 minutes, a gamepad, two headphones, a Windows operating system computer with at least 8gb RAM, a 43-inch TV, a 2,4 meter height and 1.6 meter wide black wall  
-Variable dimension
+
+Variable dimensionS
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771671909/jackplan-user/cmbdnuxhoidgm192rofh.jpg)
 
