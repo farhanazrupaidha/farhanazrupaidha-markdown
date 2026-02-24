@@ -55,7 +55,125 @@ export default function Index() {
             </Typography>
           </Marquee> 
         </Box>
-
+        <Typography variant="h5" sx={{mt:5}}>2024</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="right">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/bark_studies">
+               To date, more than one hundred plant species have been recorded and compiled on the website https://www.studiofrugreenproject.com  &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="left">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/tapak_puya">
+                Is there a return for the living generation?  &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>
+      <Typography variant="h5" sx={{mt:5}}>2024</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="right">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/bark_studies">
+               To date, more than one hundred plant species have been recorded and compiled on the website https://www.studiofrugreenproject.com  &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>
+        <Typography variant="h5" sx={{mt:5}}>2023</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="left">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/blue_neptune">
+                A game we love and the money to bet. &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>
+        <Typography variant="h5" sx={{mt:5}}>2020</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="right">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/deconstruction_reconstruction">
+                The artist purposely wants to be as close as possible with the viewers. &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>
+        <Typography variant="h5" sx={{mt:5}}>2019</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="left">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/techno_inferno">
+                We hurt the land of nature by extracting fuel then give back to it as a waste. &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>
+        <Typography variant="h5" sx={{mt:5}}>2015</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="right">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/learning_to_become">
+                Furthermore, work is an artifact of the activities of psychotherapy. &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>
+        <Typography variant="h5" sx={{mt:5}}>2014</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="right">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/24_grids">
+                 The creator donated most of the basic stories and insights that stem from the experience of living for 24 years in Cikarang. &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>
       </Container>
     </>
   );

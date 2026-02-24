@@ -19,7 +19,7 @@ Variable dimensions
 
 * * * * *
 
-Deconstruction Reconstruction was planned to be a series of Android applications which can be downloaded and collected through the internet. The aim is to give a chance to the viewer to interact and collect the work instead of just seeing it installed in a gallery. The artist purposely wants to be as close as possible with the viewer by taking aside the gap between her and viewers since an artwork mainly can only be seen in a gallery or an art space.
+Deconstruction Reconstruction was planned to be a series of Android applications which can be downloaded and collected through the internet. The aim is to give a chance to the viewer to interact and collect the work instead of just seeing it installed in a gallery. The artist purposely wants to be as close as possible with the viewers by taking aside the gap between her and viewers since an artwork mainly can only be seen in a gallery or an art space.
 
 Babel is a-six series of Android application-based artwork which demonstrates the changing of forms based on lines rotation movement. With Babel, people could tap one coordinate on their electronic device to have a result of visual reconstruction. Furthermore, through old ancient writings, Babel or the Tower of Babel was known as an interpretation of myth about diversity and the vanity of its people. The pomposity that human has in this work entitled Babel cannot eliminate the control basis through the 'if' function just as a human cannot assert that his existence is the highest and is on top position of God.
 
