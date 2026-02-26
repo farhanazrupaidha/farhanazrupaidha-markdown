@@ -108,19 +108,28 @@ function ResponsiveAppBar(props) {
                   >
                       Works
               </Button>     
-                  <Button
+              <Button
                       href="https://farhanazrupaidha.bandcamp.com"
+                      target="_blank" 
+                      rel="noopener noreferrer"
                       color= 'secondary'
                       sx={{ my: 2, display: 'block' }}
                   >
                       Music
               </Button>  
-                  <Button
+              <Button
                       href="/others"
                       color= 'secondary'
                       sx={{ my: 2, display: 'block' }}
                   >
                       Others
+              </Button> 
+              <Button
+                      href="/download"
+                      color= 'secondary'
+                      sx={{ my: 2, display: 'block' }}
+                  >
+                      Download
               </Button> 
               <Button
                       href="/about"

@@ -105,7 +105,23 @@ function DrawerToggle () {
                   </ListItemButton>
                 </ListItem>             
           </List>
-                     
+        <Divider sx={{m:1}} />
+          <List sx={{p:2}}>
+            <ListItem disablePadding>
+              <ListItemText>
+                Download
+              </ListItemText>
+            </ListItem>
+              <Divider sx={{mr:5}} />
+                <ListItem disablePadding>
+                  <ListItemButton href="/download">
+                    <ListItemText>
+                      Download the Works
+                    </ListItemText>
+                  </ListItemButton>
+                </ListItem>             
+          </List>
+
         <Button color="inherit" onClick={() => setOpen(false)}>Close</Button>
       </Drawer>
     </div>

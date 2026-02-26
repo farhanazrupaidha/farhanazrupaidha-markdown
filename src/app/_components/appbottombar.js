@@ -31,13 +31,13 @@ export default function AppBottomBar () {
         alignItems="center"
       >
         <Item>
-          <IconButton href="https://www.youtube.com/@farhanazrupaidha" color="secondary" aria-label="Follow me on YouTube">
+          <IconButton href="https://www.youtube.com/@farhanazrupaidha" target="_blank" rel="noopener noreferrer" color="secondary" aria-label="Follow me on YouTube">
             <YouTubeIcon />
           </IconButton>
-          <IconButton href="https://www.instagram.com/farhanazrupaidha/" color="secondary" aria-label="Follow me on Instagram">
+          <IconButton href="https://www.instagram.com/farhanazrupaidha/" target="_blank" rel="noopener noreferrer" color="secondary" aria-label="Follow me on Instagram">
             <InstagramIcon />
           </IconButton>
-          <IconButton href="https://farhanazrupaidha.bandcamp.com" color="secondary" aria-label="Follow me on Bandcamp">
+          <IconButton href="https://farhanazrupaidha.bandcamp.com" target="_blank" rel="noopener noreferrer" color="secondary" aria-label="Follow me on Bandcamp">
           <Avatar alt="Bandcamp" sx={{ width: 24, height: 24 }} src="/images/bandcamp-button-circle-line-aqua-256.png" />
           </IconButton>
         </Item>

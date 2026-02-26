@@ -60,18 +60,18 @@ export default function Footer () {
                 </Link>
             </Typography>
           <Typography variant="body1" gutterBottom>
-                <Link href="https://farhanazrupaidha.bandcamp.com" underline="hover" color='inherit'>
+                <Link href="https://farhanazrupaidha.bandcamp.com" target="_blank" rel="noopener noreferrer" underline="hover" color='inherit'>
                     Music
                 </Link>
             </Typography>
         </Box>        
         <Box sx={{maxWidth:270, width:'100%'}}>
             <Typography variant="h6" sx={{fontWeight: 'bold'}} gutterBottom>
-                Others
+                Download
             </Typography>
             <Typography variant="body1" gutterBottom>
-                <Link href="https://studiofrugreenproject.com" underline="hover" color='inherit'>
-                    Studiofru | Green Project
+                <Link href="/download" underline="hover" color='inherit'>
+                    Download the Works
                 </Link>
             </Typography>
         </Box>
