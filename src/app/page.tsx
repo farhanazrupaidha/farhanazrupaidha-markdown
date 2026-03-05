@@ -84,21 +84,6 @@ export default function Index() {
             </Typography>
           </Marquee> 
         </Box>
-      <Typography variant="h5" sx={{mt:5}}>2024</Typography>
-        <Box
-          display="flex"
-          justifyContent="center"
-          alignItems="center"
-          minHeight="25vh"
-        >
-          <Marquee direction="right">
-            <Typography variant="h1" gutterBottom> 
-              <Link href="https://www.farhanazrupaidha.com/posts/bark_studies">
-               To date, more than one hundred plant species have been recorded and compiled on the website https://www.studiofrugreenproject.com  &nbsp;
-              </Link>
-            </Typography>
-          </Marquee> 
-        </Box>
         <Typography variant="h5" sx={{mt:5}}>2023</Typography>
         <Box
           display="flex"
