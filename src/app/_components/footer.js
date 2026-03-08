@@ -64,14 +64,19 @@ export default function Footer () {
                     Music
                 </Link>
             </Typography>
+                <Typography variant="body1" gutterBottom>
+                <Link href="/download" target="_blank" rel="noopener noreferrer" underline="hover" color='inherit'>
+                    Download
+                </Link>
+            </Typography>
         </Box>        
         <Box sx={{maxWidth:270, width:'100%'}}>
             <Typography variant="h6" sx={{fontWeight: 'bold'}} gutterBottom>
-                Download
+                Others
             </Typography>
             <Typography variant="body1" gutterBottom>
                 <Link href="/download" underline="hover" color='inherit'>
-                    Download the Works
+                    Other Projects
                 </Link>
             </Typography>
         </Box>
