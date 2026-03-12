@@ -33,16 +33,7 @@ export default function Index() {
         <p>[2024 - ]&nbsp;Fine Arts, Prof. Haegue Yang&nbsp;-&nbsp;Hochschule f&uuml;r Bildende K&uuml;nste - St&auml;delschule, Frankfurt - Germany</p>
         <p>[2008 - 2014] Bachelor of Education (B.Ed) - Visual Art Education Department - Universitas Negeri Jakarta, Jakarta - Indonesia</p>
         <p>&nbsp;</p>
-        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>EXHIBITIONS/SCREENINGS/PERFORMANCES</Typography>
-        <p>[2025]</p>
-        <ol className="list-decimal my-6 list-outside ml-20">
-        <li>
-        <div>TEAROOM RELAY_SHOULDER 2025, Kunstinstituut Melly, Rotterdam - Netherlands</div>
-        </li> 
-        <li>
-        <div>TEAROOM RELAY_COLLOQUIAL 2025, Vietnam Art Collective, Hanoi - Vietnam</div>
-        </li>          
-        </ol>
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>EXHIBITIONS/SCREENINGS</Typography>
         <p>[2024]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
@@ -149,6 +140,26 @@ export default function Index() {
         </li>
         </ol>
         <p>&nbsp;</p>
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>PERFORMANCES</Typography>
+        <p>[2026]</p>
+        <ol className="list-decimal my-6 list-outside ml-20">
+        <li>
+        <div>ARTJOG 2026 - Ars Longa Generatio, Taman Budaya Yogyakarta, Yogyakarta - Indonesia</div>
+        </li> 
+        <li>
+        <div>St&auml;delschule Rundgang, St&auml;delschule, Frankfurt am Main - Germany</div>
+        </li>          
+        </ol>
+        <p>[2025]</p>
+        <ol className="list-decimal my-6 list-outside ml-20">
+        <li>
+        <div>TEAROOM RELAY_SHOULDER 2025, Kunstinstituut Melly, Rotterdam - Netherlands</div>
+        </li> 
+        <li>
+        <div>TEAROOM RELAY_COLLOQUIAL 2025, Vietnam Art Collective, Hanoi - Vietnam</div>
+        </li>          
+        </ol>
+        <p>&nbsp;</p>
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>AWARDS/SCHOLARSHIPS</Typography>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
@@ -162,6 +173,13 @@ export default function Index() {
         </li>
         </ol>
         <p>&nbsp;</p>
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>COLLECTIONS</Typography>
+        <ol className="list-decimal my-6 list-outside ml-20">
+        <li>
+        <div>DekaBank Art Collection, Frankfurt am Main, Germany</div>
+        </li>
+        </ol>
+        <p>&nbsp;</p>        
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>COMMISSION PROJECTS</Typography>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
