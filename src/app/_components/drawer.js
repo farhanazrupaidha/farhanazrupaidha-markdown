@@ -82,7 +82,7 @@ function DrawerToggle () {
                   </ListItemButton>
                 </ListItem> 
                 <ListItem disablePadding>
-                  <ListItemButton href="https://farhanazrupaidha.bandcamp.com">
+                  <ListItemButton target="_blank" href="https://farhanazrupaidha.bandcamp.com">
                     <ListItemText>
                       Music
                     </ListItemText>

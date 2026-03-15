@@ -75,7 +75,7 @@ export default function Footer () {
                 Others
             </Typography>
             <Typography variant="body1" gutterBottom>
-                <Link href="/download" underline="hover" color='inherit'>
+                <Link href="/others" underline="hover" color='inherit'>
                     Other Projects
                 </Link>
             </Typography>
