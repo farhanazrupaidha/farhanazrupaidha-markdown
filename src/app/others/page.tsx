@@ -57,7 +57,7 @@ const [toggler2, setToggler2] = useState(false);
                         SheYang Shibo's Portfolio Website
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
-                        A portfolio website for showcasing the artworks of the artist Sheyang Shibo.
+                        A portfolio website for showcasing the artworks of the artist SheYang Shibo.
                     </Typography>
                     </CardContent>
                      <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
