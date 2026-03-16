@@ -29,7 +29,7 @@ export default function Index() {
       </Box>
       <Box sx={{mb:10}}>
         <p>&nbsp;</p>
-        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>EDUCATION</Typography>
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>EDUCATIONS</Typography>
         <p>[2024 - ]&nbsp;Fine Arts, Prof. Haegue Yang&nbsp;-&nbsp;Hochschule f&uuml;r Bildende K&uuml;nste - St&auml;delschule, Frankfurt - Germany</p>
         <p>[2008 - 2014] Bachelor of Education (B.Ed) - Visual Art Education Department - Universitas Negeri Jakarta, Jakarta - Indonesia</p>
         <p>&nbsp;</p>
