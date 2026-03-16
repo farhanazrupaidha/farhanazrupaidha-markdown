@@ -65,7 +65,7 @@ export default function Footer () {
                 </Link>
             </Typography>
                 <Typography variant="body1" gutterBottom>
-                <Link href="/download" target="_blank" rel="noopener noreferrer" underline="hover" color='inherit'>
+                <Link href="/download" rel="noopener noreferrer" underline="hover" color='inherit'>
                     Download
                 </Link>
             </Typography>
