@@ -39,7 +39,7 @@ export default function Index() {
       >
         <Item>
             <Typography variant='h3' sx={{fontWeight:"bold", mb: 2}}>Night Sky Complex</Typography>
-            <Typography variant="body1" color="secondary" sx={{mb:2}}><Link href="https://drive.google.com/drive/folders/1teYRuzVVKQ_1NlI7D71DkuVeKjstkbVK?usp=drive_link" target="_blank" rel="noopener noreferrer">Download here</Link></Typography>
+            <Typography variant="body1" color="secondary" sx={{mb:2}}><Link href="https://www.farhanazrupaidha.com/posts/dont_fold_too_much" target="_blank" rel="noopener noreferrer">part of Don't Fold Too Much cycle</Link></Typography>
             <Typography variant="body1" color="secondary" sx={{mb:5}}>A participatory software that will run on Microsoft Windows OS computer</Typography>
             <Typography variant="body1" sx={{mb:1}}>Keywords</Typography>
             <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
@@ -79,9 +79,14 @@ export default function Index() {
                         A participatory computer software that will reset every 6 minutes. First exhibited during Städelschule Rundgang 2026.
                     </Typography>
                     </CardContent>
+                    <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
                     <CardActions>
-                        <Button size="small" color="secondary" href="https://drive.google.com/drive/folders/1teYRuzVVKQ_1NlI7D71DkuVeKjstkbVK?usp=drive_link" target="_blank" rel="noopener noreferrer" variant="contained" sx={{mb:1}}>Download here</Button>
+                        <Button size="small" color="secondary" href="https://drive.google.com/drive/folders/1teYRuzVVKQ_1NlI7D71DkuVeKjstkbVK?usp=drive_link" target="_blank" rel="noopener noreferrer" variant="contained" sx={{mb:1}}>Download the software</Button>
                     </CardActions>
+                    <CardActions>
+                        <Button size="small" color="secondary" href="https://farhanazrupaidha.bandcamp.com/track/night-sky-complex-theme" target="_blank" rel="noopener noreferrer" variant="contained" sx={{mb:1}}>Download the soundtrack theme</Button>
+                    </CardActions>
+                    </Stack>
             </Card>
       </Item>
     </Stack>    
