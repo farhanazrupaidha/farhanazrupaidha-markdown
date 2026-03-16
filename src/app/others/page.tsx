@@ -57,7 +57,7 @@ const [toggler2, setToggler2] = useState(false);
                         SheYang Shibo's Portfolio Website
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
-                        A portfolio website for showcasing the artworks of the artist Sheyang Shibo.
+                        A portfolio website for showcasing the artworks of the artist SheYang Shibo.
                     </Typography>
                     </CardContent>
                      <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
@@ -82,7 +82,7 @@ const [toggler2, setToggler2] = useState(false);
         <Item>
             <Typography variant='h3' sx={{fontWeight:"bold", mb: 2}}>Sheyang Shibo's Portfolio Website</Typography>
             <Typography variant="body1" color="secondary" sx={{mb:2}}><Link href="https://sheyangshibo.cargo.site">sheyangshibo.com</Link></Typography>
-            <Typography variant="body1" color="secondary" sx={{mb:5}}>A portfolio website for showcasing the artworks of the artist Sheyang Shibo.</Typography>
+            <Typography variant="body1" color="secondary" sx={{mb:5}}>A portfolio website for showcasing the artworks of the artist SheYang Shibo.</Typography>
             <Typography variant="body1" sx={{mb:1}}>Technology used</Typography>
             <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
                 <Item2>
