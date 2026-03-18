@@ -1,9 +1,22 @@
+'use client'
+
 import Container from "@/app/_components/container";
 
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Marquee from "react-fast-marquee";
 import Link from '@mui/material/Link';
+import Stack from '@mui/material/Stack';
+
+import { Divider } from "@mui/material";
+import { styled } from '@mui/material/styles';
+
+const Item = styled(Box)(({ theme }) => ({
+  ...theme.typography.body2,
+  maxWidth: 1200,
+  width:'100%',
+}));
+
 
 export default function Index() {
 
@@ -11,14 +24,29 @@ export default function Index() {
   const time = new Date().toLocaleTimeString();
 
   return (
-    <>
-      <Container>
+  <>
+    <Box sx={{m:10}}>
+      <Stack
+        direction={{ xs: 'column', sm: 'row' }}
+        spacing={{ xs: 5, sm: 2, md: 4 }}
+        sx={{mb:10}}
+      > 
+      <Item>
+        <Typography variant="h5" sx={{mt:5}}>News</Typography>
+         <ol className="list-decimal my-6 list-outside ml-20">
+          <li>
+          <Link href="https://artjog.id/2026/index.php?lang=en" color="secondary">ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance]</Link>
+          </li> 
+        </ol>
+
+      </Item>
+      <Item>
         <Typography variant="h5" sx={{mt:5}}>2026</Typography>
         <Box
           display="flex"
+          minHeight="25vh"
           justifyContent="center"
           alignItems="center"
-          minHeight="25vh"
         >
           <Marquee direction="left">
             <Typography variant="h1" gutterBottom> 
@@ -159,7 +187,9 @@ export default function Index() {
             </Typography>
           </Marquee> 
         </Box>
-      </Container>
+        </Item>
+        </Stack>
+      </Box>
     </>
   );
 }
