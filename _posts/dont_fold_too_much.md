@@ -69,11 +69,14 @@ The mass anti-communist killings took place in 1965 and resulted in the deaths o
 
 2026
 
-Watercolour and acrylic with hand embossing on paper, 5 meter long chain, a neon lamp, and a 98,3 cm aluminium rod
+Watercolour and acrylic with hand embossing on paper, 5 meter long chain, a neon tube lamp, and a 98,3 cm aluminium rod
 
-200 x 200 cm
+200 x 200 x 35 cm
+
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770842436/jackplan-user/r2rwkzexvmritykqzdmi.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1773829167/jackplan-user/pjrffyaxhpyqavgjmfdt.jpg)
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1770917043/jackplan-user/jislussdljmqflgkwfod.jpg)
 
