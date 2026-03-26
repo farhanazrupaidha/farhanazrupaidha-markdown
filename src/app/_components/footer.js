@@ -19,13 +19,13 @@ export default function Footer () {
  <Box elevation={2} sx={{p:3}}>
      <Stack
         direction={{ xs: 'column', sm: 'row' }}
-        spacing={{ xs: 4, sm: 2, md: 1 }}
+        spacing={{ xs: 4, sm: 2, md: 5 }}
         sx={{ml:3, mr:3}}
         justifyContent="center"
         alignItems="left"
       >
-        <Box sx={{maxWidth:800, width:'100%'}}>
-        <Typography variant='h3' sx={{height:'80px', mt:1, mb:3}}>
+        <Box sx={{maxWidth:1200, width:'100%'}}>
+        <Typography variant='h3' sx={{height:'80px', mt:1, mb:3, ml:8}}>
         <Typewriter
               options={{
                 strings: ['Farhanaz', 'Rupaidha'],
@@ -35,7 +35,7 @@ export default function Footer () {
             />
         </Typography>  
         </Box>
-        <Box sx={{maxWidth:170, width:'100%'}}>
+        <Box sx={{maxWidth:200, width:'100%'}}>
             <Typography variant="h6" sx={{fontWeight: 'bold'}} gutterBottom>
                 Profile
             </Typography>
@@ -50,7 +50,7 @@ export default function Footer () {
                 </Link>
             </Typography>
         </Box>
-        <Box sx={{maxWidth:170, width:'100%'}}>
+        <Box sx={{maxWidth:200, width:'100%'}}>
             <Typography variant="h6" sx={{fontWeight: 'bold'}} gutterBottom>
                 Explore
             </Typography>
