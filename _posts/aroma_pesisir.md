@@ -13,9 +13,11 @@ ogImage:
 
 2025
 
-Audiovisual live performance set
+One-time audiovisual live performance set
 
-14 min
+15’00 min
+
+Indoor performance with a projection and a set of speakers
 
 * * * * *
 
