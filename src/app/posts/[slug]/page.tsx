@@ -89,15 +89,29 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound();
   }
 
+  const baseUrl = "https://farhanazrupaidha.com";
   const title = `${post.title} | Farhanaz Rupaidha`;
 
   return {
     title,
     openGraph: {
       title,
-      url: `https://farhanazrupaidha.com/posts/${post.slug}`,
+      url: `${baseUrl}/posts/${post.slug}`,
       type: "article",
-      images: [{ url: post.coverImage, width: 1200, height: 630, alt: post.title }],
+      images: [
+        {
+          url: `${baseUrl}${post.coverImage}`, // ✅ FIX HERE
+          width: 1200,
+          height: 630,
+          alt: post.title,
+        },
+      ],
+    },
+    // ✅ ALSO ADD THIS (VERY IMPORTANT for Twitter/WhatsApp)
+    twitter: {
+      card: "summary_large_image",
+      title,
+      images: [`${baseUrl}${post.coverImage}`],
     },
   };
 }
