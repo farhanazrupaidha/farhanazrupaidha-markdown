@@ -6,6 +6,7 @@ import Container from "@/app/_components/container";
 
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
+import Link from '@mui/material/Link';
 
 export default function Index() {
 
@@ -44,9 +45,6 @@ export default function Index() {
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
         <div>Universal Iteration, Online Exhibition - initiated by Komunitas Salihara, Jakarta - Indonesia</div>
-        </li>
-        <li>
-        <div>International Video Poetry Festival VideoBardo 25 years, International Videopoetry Festival Videobardo, Buenos Aires - Argentina</div>
         </li>
         <li>
         <div>Post Reality, Lahore Digital Arts Festival 2021, Lahore &ndash; Pakistan</div>
@@ -147,7 +145,7 @@ export default function Index() {
         <div>ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming]</div>
         </li> 
         <li>
-        <div>St&auml;delschule Rundgang, St&auml;delschule, Frankfurt am Main - Germany</div>
+        <div>St&auml;delschule Rundgang 2026, St&auml;delschule, Frankfurt am Main - Germany</div>
         </li>          
         </ol>
         <p>[2025]</p>
@@ -205,6 +203,12 @@ export default function Index() {
         <div>&nbsp;[2021 - presents] Web design and development for Yayasan Wangsakerta&nbsp;<a title="https://www.yayasanwangsakerta.org" href="https://www.yayasanwangsakerta.org/">https://www.yayasanwangsakerta.org&nbsp;</a></div>
         </li>
         </ol>  
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>BIBLIOGRAPHY</Typography>
+        <ol className="list-decimal my-6 list-outside ml-20">
+        <li>
+        <div><Link href="https://www.farhanazrupaidha.com/posts/dont_fold_too_much">Don't Fold Too Much - Leporello</Link>, St&auml;delschule Rundgang 2026, St&auml;delschule, Frankfurt am Main - Germany</div>
+        </li>
+        </ol>
         </Box> 
       </Container>
     </>

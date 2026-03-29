@@ -1,13 +1,14 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug } from "@/lib/api";
-import { CMS_NAME } from "@/lib/constants";
+
 import markdownToHtml from "@/lib/markdownToHtml";
 import Container from "@/app/_components/container";
 import Header from "@/app/_components/header";
-import { PostBody } from "@/app/_components/post-body";
+
 import { PostHeader } from "@/app/_components/post-header";
 import ShareButton from "@/app/_components/socialsharebutton";
+import SocialShare from "@/app/_components/SocialShare";
 
 import Markdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
@@ -58,9 +59,10 @@ export default async function Post(props: Params) {
                 spacing={1}
                 justifyContent="center"
                 alignItems="center"
-                sx={{mt:2, mb:5}}
+                sx={{mt:2, mb:7}}
             >
               <ShareButton />
+              <SocialShare postSlug={post.slug} postTitle={post.title} postExcerpt={post.excerpt} />
             </Stack>  
              </Box> 
             </center>
@@ -89,18 +91,16 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound();
   }
 
-  const baseUrl = "https://farhanazrupaidha.com";
-  const title = `${post.title} | Farhanaz Rupaidha`;
-
   return {
-    title,
+    title: `${post.title} | Farhanaz Rupaidha`,
+    description: post.excerpt,
     openGraph: {
-      title,
-      url: `${baseUrl}/posts/${post.slug}`,
+      title: post.title,
+      url: `https://farhanazrupaidha.com/posts/${post.slug}`,
       type: "article",
       images: [
         {
-          url: `${baseUrl}${post.coverImage}`, // ✅ FIX HERE
+          url: post.coverImage,
           width: 1200,
           height: 630,
           alt: post.title,
@@ -110,8 +110,9 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     // ✅ ALSO ADD THIS (VERY IMPORTANT for Twitter/WhatsApp)
     twitter: {
       card: "summary_large_image",
-      title,
-      images: [`${baseUrl}${post.coverImage}`],
+      description: post.excerpt,
+      title: `${post.title} | Farhanaz Rupaidha`,
+      images: [{url: post.coverImage}],
     },
   };
 }

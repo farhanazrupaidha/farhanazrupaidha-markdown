@@ -128,6 +128,9 @@ const [toggler2, setToggler2] = useState(false);
                 <Item2>
                     <Chip label="Vercel" variant="outlined"  />
                 </Item2>
+                <Item2>
+                    <Chip label="next-intl" variant="outlined" />
+                </Item2>
             </Stack>
         </Item>
       <Item>
@@ -142,7 +145,7 @@ const [toggler2, setToggler2] = useState(false);
                         Studiofru | Green Project
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
-                         A digital platform or website that focuses on topics related to flora, fauna, environmental science, health, culinary culture, and local knowledge—especially within the context of Indonesia. It functions like an encyclopedia or educational portal, offering articles, photographs, and scientific as well as cultural notes.
+                         A bilingual digital platform or website that focuses on topics related to flora, fauna, environmental science, health, culinary culture, and local knowledge—especially within the context of Indonesia. It functions like an encyclopedia or educational portal, offering articles, photographs, and scientific as well as cultural notes.
                     </Typography>
                     </CardContent>
                     <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>

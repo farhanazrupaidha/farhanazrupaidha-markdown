@@ -8,7 +8,6 @@ import Marquee from "react-fast-marquee";
 import Link from '@mui/material/Link';
 import Stack from '@mui/material/Stack';
 
-import { Divider } from "@mui/material";
 import { styled } from '@mui/material/styles';
 
 const Item = styled(Box)(({ theme }) => ({
