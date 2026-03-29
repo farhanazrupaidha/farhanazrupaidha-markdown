@@ -32,7 +32,7 @@ export default function SocialShare({ postSlug, postTitle, postExcerpt }: Social
   const segments = pathname.split("/");
 
   // Build full share URL with current locale
-  const shareUrl = `https://www.farhanazrupaidha/posts/${postSlug}`;
+  const shareUrl = `https://www.farhanazrupaidha.com/posts/${postSlug}`;
 
   return (
     <Stack direction="row" spacing={1}>

@@ -96,7 +96,7 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     description: post.excerpt,
     openGraph: {
       title: post.title,
-      url: `https://farhanazrupaidha.com/posts/${post.slug}`,
+      url: `https://www.farhanazrupaidha.com/posts/${post.slug}`,
       type: "article",
       images: [
         {
