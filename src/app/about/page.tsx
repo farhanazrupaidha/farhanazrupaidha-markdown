@@ -186,9 +186,6 @@ export default function Index() {
         <li>
         <div>DekaBank Art Collection, Frankfurt am Main, Germany</div>
         </li>
-        <li>
-        <div>Private collections</div>
-        </li>
         </ol>
         <p>&nbsp;</p>
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>OTHER PROJECTS</Typography>
