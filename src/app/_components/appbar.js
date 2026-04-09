@@ -68,7 +68,7 @@ function ResponsiveAppBar(props) {
       <ElevationScroll {...props}>
         <AppBar>
           <Toolbar>
-            <Box sx={{ mr:2, display: { xs: 'flex', md: 'none' } }}>
+            <Box sx={{ p: 3, display: { xs: 'flex', md: 'none' } }}>
                 <DrawerToggle />
             </Box>
 

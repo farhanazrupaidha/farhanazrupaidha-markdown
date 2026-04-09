@@ -23,7 +23,7 @@ export default function AppBottomBar () {
   const year = date.getFullYear();  
   return (
   <>
-  <Box justifyContent="center" alignItems="center" sx={{ml:8, mr:2}}>
+  <Box justifyContent="center" alignItems="center" sx={{p:3}}>
      <Stack
         direction={{ xs: 'column', sm: 'row' }}
         spacing={{ xs: 1, sm: 2, md: 120 }}
