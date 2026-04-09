@@ -34,7 +34,7 @@ export default function Index() {
         <Typography variant="h5" sx={{mt:5}}>News</Typography>
          <ol className="list-decimal my-6 list-outside ml-20">
           <li>
-          <Link href="https://www.studiofrugreenproject.com" target="_blank" color="secondary">studiofrugreenproject.com is now in also in English</Link>
+          <Link href="https://www.studiofrugreenproject.com" target="_blank" color="secondary">studiofrugreenproject.com is now also in English</Link>
           </li>
           <li>
           <Link href="https://artjog.id/2026/index.php?lang=en" color="secondary">ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance]</Link>
