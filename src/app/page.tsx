@@ -24,7 +24,7 @@ export default function Index() {
 
   return (
   <>
-    <Box sx={{m:10}}>
+    <Box sx={{p:5}}>
       <Stack
         direction={{ xs: 'column', sm: 'row' }}
         spacing={{ xs: 5, sm: 2, md: 4 }}
@@ -34,10 +34,12 @@ export default function Index() {
         <Typography variant="h5" sx={{mt:5}}>News</Typography>
          <ol className="list-decimal my-6 list-outside ml-20">
           <li>
+          <Link href="https://www.studiofrugreenproject.com" target="_blank" color="secondary">studiofrugreenproject.com is now in also in English</Link>
+          </li>
+          <li>
           <Link href="https://artjog.id/2026/index.php?lang=en" color="secondary">ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance]</Link>
           </li> 
         </ol>
-
       </Item>
       <Item>
         <Typography variant="h5" sx={{mt:5}}>2026</Typography>
@@ -122,6 +124,21 @@ export default function Index() {
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/blue_neptune">
                 A game we love and the money to bet. &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>
+                <Typography variant="h5" sx={{mt:5}}>2022</Typography>
+        <Box
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+          minHeight="25vh"
+        >
+          <Marquee direction="left">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://studiofrugreenproject.com">
+                A field-based plant documentation project focusing on local knowledge, ecological observation, and cultural history of plants in Indonesia. &nbsp;
               </Link>
             </Typography>
           </Marquee> 

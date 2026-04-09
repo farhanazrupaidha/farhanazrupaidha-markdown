@@ -50,14 +50,14 @@ const [toggler2, setToggler2] = useState(false);
                 <CardMedia
                     sx={{ height: 350 }}
                     image="https://res.cloudinary.com/studiofruworks/image/upload/v1773576613/studiofruworks/n6tn2eoun74psspkhmdp.png"
-                    title="SheYang Shibo's Portfolio Website"
+                    title="SheYang Sibo's Portfolio Website"
                 />
                 <CardContent>
                     <Typography gutterBottom variant="h5" component="div">
                         SheYang Shibo's Portfolio Website
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
-                        A portfolio website for showcasing the artworks of the artist SheYang Shibo.
+                        A portfolio website for showcasing the artworks of the artist SheYang Sibo.
                     </Typography>
                     </CardContent>
                      <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
@@ -80,9 +80,9 @@ const [toggler2, setToggler2] = useState(false);
 			/>
         </Item>
         <Item>
-            <Typography variant='h3' sx={{fontWeight:"bold", mb: 2}}>Sheyang Shibo's Portfolio Website</Typography>
+            <Typography variant='h3' sx={{fontWeight:"bold", mb: 2}}>Sheyang Sibo's Portfolio Website</Typography>
             <Typography variant="body1" color="secondary" sx={{mb:2}}><Link href="https://sheyangshibo.cargo.site">sheyangshibo.com</Link></Typography>
-            <Typography variant="body1" color="secondary" sx={{mb:5}}>A portfolio website for showcasing the artworks of the artist SheYang Shibo.</Typography>
+            <Typography variant="body1" color="secondary" sx={{mb:5}}>A portfolio website for showcasing the artworks of the artist SheYang Sibo.</Typography>
             <Typography variant="body1" sx={{mb:1}}>Technology used</Typography>
             <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
                 <Item2>
@@ -145,7 +145,7 @@ const [toggler2, setToggler2] = useState(false);
                         Studiofru | Green Project
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
-                         A bilingual digital platform or website that focuses on topics related to flora, fauna, environmental science, health, culinary culture, and local knowledge—especially within the context of Indonesia. It functions like an encyclopedia or educational portal, offering articles, photographs, and scientific as well as cultural notes.
+                         A field-based plant documentation project focusing on local knowledge, ecological observation, and cultural history of plants in Indonesia.
                     </Typography>
                     </CardContent>
                     <Stack spacing={{ xs: 1, sm: 1 }} direction="row" useFlexGap flexWrap="wrap" sx={{mt:1, mb:1}}>
