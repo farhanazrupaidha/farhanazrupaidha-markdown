@@ -31,15 +31,17 @@ export default function Index() {
         sx={{mb:10}}
       > 
       <Item>
-        <Typography variant="h5" sx={{mt:5}}>News</Typography>
-         <ol className="list-decimal my-6 list-outside ml-20">
-          <li>
-          <Link href="https://www.studiofrugreenproject.com" target="_blank" color="secondary">studiofrugreenproject.com is now also in English</Link>
-          </li>
-          <li>
-          <Link href="https://artjog.id/2026/index.php?lang=en" color="secondary">ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance]</Link>
-          </li> 
-        </ol>
+        <Typography variant="h5" sx={{mt:5, mb:5}}>News</Typography>
+          <Typography variant="body1" sx={{mb:2}}>
+            <Link href="https://www.studiofrugreenproject.com" target="_blank" color="secondary">
+              studiofrugreenproject.com is now also in English
+            </Link>
+          </Typography>
+          <Typography variant="body1">
+            <Link href="https://artjog.id/2026/index.php?lang=en" color="secondary">
+              ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance]
+            </Link>
+          </Typography>
       </Item>
       <Item>
         <Typography variant="h5" sx={{mt:5}}>2026</Typography>
