@@ -104,7 +104,7 @@ Mooi Indië itself was originally the title of eleven reproductions of the water
 
 A participatory computer software that will reset every 6 minutes, a gamepad, two headphones, a Windows operating system computer with at least 8gb RAM, a 43-inch TV, a 2,4 meter height and 1.6 meter wide black wall  
 
-Variable dimensionS
+Variable dimensions
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1771671909/jackplan-user/cmbdnuxhoidgm192rofh.jpg)
 
