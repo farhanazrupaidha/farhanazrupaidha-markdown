@@ -39,7 +39,7 @@ export default function Index() {
           </Typography>
           <Typography variant="body1">
             <Link href="https://artjog.id/2026/index.php?lang=en" color="secondary">
-              ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance]
+              ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance - July 18, 2026]
             </Link>
           </Typography>
       </Item>
