@@ -142,7 +142,7 @@ export default function Index() {
         <p>[2026]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div>ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [July 18, 2026]</div>
+        <div>ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance - July 18th, 2026 7.30pm]</div>
         </li> 
         <li>
         <div>St&auml;delschule Rundgang 2026, St&auml;delschule, Frankfurt am Main - Germany</div>
