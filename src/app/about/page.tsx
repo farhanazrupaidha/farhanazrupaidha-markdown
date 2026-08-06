@@ -34,7 +34,15 @@ export default function Index() {
         <p>[2024 - ]&nbsp;Fine Arts, Prof. Haegue Yang&nbsp;-&nbsp;Hochschule f&uuml;r Bildende K&uuml;nste - St&auml;delschule, Frankfurt - Germany</p>
         <p>[2008 - 2014] Bachelor of Education (B.Ed) - Visual Art Education Department - Universitas Negeri Jakarta, Jakarta - Indonesia</p>
         <p>&nbsp;</p>
-        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>EXHIBITIONS/SCREENINGS</Typography>
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>DUO EXHIBITIONS</Typography>
+        <p>[2026]</p>
+        <ol className="list-decimal my-6 list-outside ml-20">
+        <li>
+        <div><Typography variant="body1" color="#36d1f4">Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [upcoming]</Typography></div>
+        </li>
+        </ol>
+        <p>&nbsp;</p>
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>GROUP EXHIBITIONS/SCREENINGS</Typography>
         <p>[2024]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
@@ -142,7 +150,7 @@ export default function Index() {
         <p>[2026]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div>ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance - July 18th, 2026 7.30pm]</div>
+        <div>ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [July 18th, 2026 7.30pm]</div>
         </li> 
         <li>
         <div>St&auml;delschule Rundgang 2026, St&auml;delschule, Frankfurt am Main - Germany</div>
@@ -200,12 +208,6 @@ export default function Index() {
         <div>&nbsp;[2021 - presents] Web design and development for Yayasan Wangsakerta&nbsp;<a title="https://www.yayasanwangsakerta.org" href="https://www.yayasanwangsakerta.org/">https://www.yayasanwangsakerta.org&nbsp;</a></div>
         </li>
         </ol>  
-        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>BIBLIOGRAPHY</Typography>
-        <ol className="list-decimal my-6 list-outside ml-20">
-        <li>
-        <div><Link href="https://www.farhanazrupaidha.com/posts/dont_fold_too_much">Don't Fold Too Much - Leporello</Link>, St&auml;delschule Rundgang 2026, St&auml;delschule, Frankfurt am Main - Germany</div>
-        </li>
-        </ol>
         </Box> 
       </Container>
     </>

@@ -33,13 +33,18 @@ export default function Index() {
       <Item>
         <Typography variant="h5" sx={{mt:5, mb:5}}>News</Typography>
           <Typography variant="body1" sx={{mb:2}}>
+            <Link href="https://fffriedrich.de" target="_blank" color="secondary">
+              Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [upcoming]
+            </Link>
+          </Typography>
+          <Typography variant="body1" sx={{mb:2}}>
             <Link href="https://www.studiofrugreenproject.com" target="_blank" color="secondary">
               studiofrugreenproject.com is now also in English
             </Link>
           </Typography>
           <Typography variant="body1">
             <Link href="https://artjog.id/2026/detail-performa.php?urut=16&name=Farhanaz-Rupaidha" color="secondary">
-              ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [upcoming performance - July 18th, 2026 7.30pm]
+              ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia
             </Link>
           </Typography>
       </Item>
