@@ -1,7 +1,7 @@
 ---
 title: "Aroma Pesisir/Coastal Scent"
 excerpt: "An audiovisual performance that is loosely based on the procession of Nadran in Cirebon, West Java, Indonesia."
-coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1750523771/jackplan-user/x4autz2yzjrchu3h1cvd.png"
+coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1787411859/jackplan-user/uht8qymxsoaovvssrzdy.jpg"
 date: "2025-06-21T05:35:07.322Z"
 author:
   name: Farhanaz Rupaidha
@@ -74,6 +74,14 @@ In the *Arak-Arakan*, sounds from video recordings taken during the procession w
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1750523769/jackplan-user/z40tek8ffr23oidhzbvt.png)
 
 -----
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1787411258/jackplan-user/fmsui541kvxzud5tyaln.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1787411258/jackplan-user/l8jvp3jbioowuuhnksah.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1787411257/jackplan-user/q9iiokm4gtmt4cpyhgmh.jpg)
+
+![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1787411258/jackplan-user/i7trkqr7yojdogj46jub.jpg)
 
 ![alt text](https://res.cloudinary.com/studiofruworks/image/upload/v1764100072/jackplan-user/nshzfzfoodblumvtxao9.jpg)
 

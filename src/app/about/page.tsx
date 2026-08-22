@@ -42,7 +42,7 @@ export default function Index() {
         </li>
         </ol>
         <p>&nbsp;</p>
-        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>GROUP EXHIBITIONS/SCREENINGS</Typography>
+        <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>SELECTED GROUP EXHIBITIONS/SCREENINGS</Typography>
         <p>[2024]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
