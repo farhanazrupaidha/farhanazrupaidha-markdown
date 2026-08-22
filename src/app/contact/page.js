@@ -61,7 +61,7 @@ export default function Contact() {
                     underline="hover"
                     color="inherit"
                   >
-                    farhanaz.rupaidha[at]gmail[dot]com
+                    farhanaz.rupaidha@gmail.com
                   </Link>
                 </Stack>
               </Grid>
