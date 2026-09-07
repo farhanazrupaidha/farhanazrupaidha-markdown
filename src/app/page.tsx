@@ -31,10 +31,16 @@ export default function Index() {
         sx={{mb:10}}
       > 
       <Item>
+          <Typography variant="h5" sx={{mt:5, mb:5}}>News</Typography>
+          <Typography variant="body1" sx={{mb:2}}>
+            <Link href="https://fffriedrich.de" target="_blank" color="secondary">
+              Sound performance during Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [September 13th, 2026 6pm]
+            </Link>
+          </Typography>
         <Typography variant="h5" sx={{mt:5, mb:5}}>News</Typography>
           <Typography variant="body1" sx={{mb:2}}>
             <Link href="https://fffriedrich.de" target="_blank" color="secondary">
-              Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [upcoming]
+              Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [5.09.2026 - 20.09.2026]
             </Link>
           </Typography>
           <Typography variant="body1" sx={{mb:2}}>
