@@ -38,7 +38,7 @@ export default function Index() {
         <p>[2026]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div><Typography variant="body1">Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [September 5th - 20th 2026 ]</Typography></div>
+        <div><Typography variant="body1">Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [September 5th - 20th 2026]</Typography></div>
         </li>
         </ol>
         <p>&nbsp;</p>
