@@ -33,8 +33,13 @@ export default function Index() {
       <Item>
           <Typography variant="h5" sx={{mt:5, mb:5}}>Recent</Typography>
           <Typography variant="body1" sx={{mb:2}}>
+            <Link href="https://www.instagram.com/farhanazrupaidha/" target="_blank" color="secondary">
+              Don't Honey Me, with  Yu Yang, Lucy, Engelthaler Str. 25, 60435 Frankfurt am Main - Germany [October 16th - 24th 2026]
+            </Link>
+          </Typography>
+          <Typography variant="body1" sx={{mb:2}}>
             <Link href="https://fffriedrich.de" target="_blank" color="secondary">
-              Sound performance during Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [September 13th, 2026 6pm]
+              {"{draw(Modernity)}"}, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [September 13th, 2026 6 p.m.]
             </Link>
           </Typography>
           <Typography variant="body1" sx={{mb:2}}>

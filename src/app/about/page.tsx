@@ -38,6 +38,9 @@ export default function Index() {
         <p>[2026]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
+        <div><Typography variant="body1">Don't Honey Me, with  Yu Yang, Lucy, Engelthaler Str. 25, 60435 Frankfurt am Main - Germany [October 16th - 24th 2026]</Typography></div>
+        </li>
+        <li>
         <div><Typography variant="body1">Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [September 5th - 20th 2026]</Typography></div>
         </li>
         </ol>
@@ -150,7 +153,10 @@ export default function Index() {
         <p>[2026]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div>ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [July 18th, 2026 7.30pm]</div>
+        <div>Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [September 5th - 20th 2026 6 p.m.]</div>
+        </li> 
+        <li>
+        <div>ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [July 18th, 2026 7.30 p.m.]</div>
         </li> 
         <li>
         <div>St&auml;delschule Rundgang 2026, St&auml;delschule, Frankfurt am Main - Germany</div>
