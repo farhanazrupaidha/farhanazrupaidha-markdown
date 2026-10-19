@@ -34,7 +34,7 @@ export default function Index() {
           <Typography variant="h5" sx={{mt:5, mb:5}}>Recent</Typography>
           <Typography variant="body1" sx={{mb:2}}>
             <Link href="https://www.instagram.com/farhanazrupaidha/" target="_blank" color="secondary">
-              Don't Honey Me, with  Yu Yang, Lucy, Engelthaler Str. 25, 60435 Frankfurt am Main - Germany [October 16th - 24th 2026]
+              Don't Honey Me, with  Yu Yang, Lucy, Engelthaler Str. 25, 60435 Frankfurt am Main - Germany [October 15th - 24th 2026]
             </Link>
           </Typography>
           <Typography variant="body1" sx={{mb:2}}>
