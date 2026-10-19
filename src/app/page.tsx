@@ -68,6 +68,20 @@ export default function Index() {
         >
           <Marquee direction="left">
             <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/transport">
+              •	During the Middle Ages, both Muslims and Christians believed that the banana might have been the forbidden fruit of Paradise. &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>        
+        <Box
+          display="flex"
+          minHeight="25vh"
+          justifyContent="center"
+          alignItems="center"
+        >
+          <Marquee direction="left">
+            <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/dont_fold_too_much">
               Don't fold too much. &nbsp;
               </Link>
