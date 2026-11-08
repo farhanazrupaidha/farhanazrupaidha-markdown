@@ -47,11 +47,6 @@ export default function Index() {
               Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [5.09.2026 - 20.09.2026]
             </Link>
           </Typography>
-          <Typography variant="body1" sx={{mb:2}}>
-            <Link href="https://www.studiofrugreenproject.com" target="_blank" color="secondary">
-              studiofrugreenproject.com is now also in English
-            </Link>
-          </Typography>
           <Typography variant="body1">
             <Link href="https://artjog.id/2026/detail-performa.php?urut=16&name=Farhanaz-Rupaidha" color="secondary">
               ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia
@@ -66,10 +61,38 @@ export default function Index() {
           justifyContent="center"
           alignItems="center"
         >
+          <Marquee direction="right">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/before_the_cultuurstelsel">
+               Historian John Keay considers Run Island the birthplace of the British Empire due to its valuable nutmeg and mace trade in the 17th century. • &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box> 
+        <Box
+          display="flex"
+          minHeight="25vh"
+          justifyContent="center"
+          alignItems="center"
+        >
+          <Marquee direction="right">
+            <Typography variant="h1" gutterBottom> 
+              <Link href="https://www.farhanazrupaidha.com/posts/draw-modernity">
+               First attempt to grow the space • &nbsp;
+              </Link>
+            </Typography>
+          </Marquee> 
+        </Box>          
+        <Box
+          display="flex"
+          minHeight="25vh"
+          justifyContent="center"
+          alignItems="center"
+        >
           <Marquee direction="left">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/transport">
-              •	During the Middle Ages, both Muslims and Christians believed that the banana might have been the forbidden fruit of Paradise. &nbsp;
+              During the Middle Ages, both Muslims and Christians believed that the banana might have been the forbidden fruit of Paradise • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -83,7 +106,7 @@ export default function Index() {
           <Marquee direction="left">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/dont_fold_too_much">
-              Don't fold too much. &nbsp;
+              Don't fold too much • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -98,7 +121,7 @@ export default function Index() {
           <Marquee direction="right">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/aroma_pesisir">
-               Crowds of people, young and old, men and women, pour into the streets, singing and dancing. &nbsp;
+               Crowds of people, young and old, men and women, pour into the streets, singing and dancing • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -125,7 +148,7 @@ export default function Index() {
           <Marquee direction="right">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/bark_studies">
-               To date, more than one hundred plant species have been recorded and compiled on the website https://www.studiofrugreenproject.com  &nbsp;
+               To date, more than one hundred plant species have been recorded and compiled on the website https://www.studiofrugreenproject.com  • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -139,7 +162,7 @@ export default function Index() {
           <Marquee direction="left">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/tapak_puya">
-                Is there a return for the living generation?  &nbsp;
+                Is there a return for the living generation? • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -154,7 +177,7 @@ export default function Index() {
           <Marquee direction="left">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/blue_neptune">
-                A game we love and the money to bet. &nbsp;
+                A game we love and the money to bet • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -169,7 +192,7 @@ export default function Index() {
           <Marquee direction="left">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://studiofrugreenproject.com">
-                A field-based plant documentation project focusing on local knowledge, ecological observation, and cultural history of plants in Indonesia. &nbsp;
+                A field-based plant documentation project focusing on local knowledge, ecological observation, and cultural history of plants in Indonesia • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -184,7 +207,7 @@ export default function Index() {
           <Marquee direction="right">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/deconstruction_reconstruction">
-                The artist purposely wants to be as close as possible with the viewers. &nbsp;
+                The artist purposely wants to be as close as possible with the viewers • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -199,7 +222,7 @@ export default function Index() {
           <Marquee direction="left">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/techno_inferno">
-                We hurt the land of nature by extracting fuel then give back to it as a waste. &nbsp;
+                We hurt the land of nature by extracting fuel then give back to it as a waste • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -214,7 +237,7 @@ export default function Index() {
           <Marquee direction="right">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/learning_to_become">
-                Furthermore, work is an artifact of the activities of psychotherapy. &nbsp;
+                Furthermore, work is an artifact of the activities of psychotherapy • &nbsp;
               </Link>
             </Typography>
           </Marquee> 
@@ -229,7 +252,7 @@ export default function Index() {
           <Marquee direction="right">
             <Typography variant="h1" gutterBottom> 
               <Link href="https://www.farhanazrupaidha.com/posts/24_grids">
-                 The creator donated most of the basic stories and insights that stem from the experience of living for 24 years in Cikarang. &nbsp;
+                 The creator donated most of the basic stories and insights that stem from the experience of living for 24 years in Cikarang • &nbsp;
               </Link>
             </Typography>
           </Marquee> 

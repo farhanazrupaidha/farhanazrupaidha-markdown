@@ -153,7 +153,7 @@ export default function Index() {
         <p>[2026]</p>
         <ol className="list-decimal my-6 list-outside ml-20">
         <li>
-        <div>Waiting Room, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [September 5th - 20th 2026 6 p.m.]</div>
+        <div>{"{draw(Modernity)}"}, with  Chufan Luo, fffriedrich, Braubachstr. 37, 60311, Frankfurt am Main - Germany [September 5th - 20th 2026 6 p.m.]</div>
         </li> 
         <li>
         <div>ARTJOG 2026 - Ars Longa Generatio, Jogja National Museum, Yogyakarta - Indonesia [July 18th, 2026 7.30 p.m.]</div>

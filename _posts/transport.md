@@ -19,6 +19,20 @@ Watercolor and gouache on paper, 3D-printed cured resin objects, banana leaf, an
 
 * * * * *
 
+Menurut para ahli hortikultura, pisang termasuk salah satu tanaman buah tertua yang dibudidayakan di dunia. Ahli etnogeografi C.O. Sauer mencatat bahwa para nelayan di Asia Tenggara menggunakan batang semu pisang yang dikeringkan sebagai serat untuk mengikat batang-batang bambu menjadi rakit untuk menangkap ikan di pesisir. Selama ribuan tahun, proses penanaman dan penyebaran pisang akhirnya menghasilkan buah yang menarik, berdaging tebal, dan tanpa biji, sehingga menjadi salah satu sumber pangan penting.
+
+Nama “banana” dikenal luas melalui para pedagang Arab. Karena bentuk buahnya menyerupai jari, nama tersebut berasal dari kata Arab bana’an, yang berarti “jari”, dan kemudian berkembang menjadi kata “banana” dalam bahasa Inggris.
+
+Pada Abad Pertengahan, umat Muslim maupun Kristen percaya bahwa pisang mungkin merupakan buah terlarang dari Surga.
+
+Dari abad ke-16 hingga ke-19, para pedagang Portugis dan Spanyol menyebarkan pisang ke wilayah tropis Amerika. Selanjutnya, pedagang Belanda, Inggris, Prancis, dan Jerman turut menyebarkan varietas populer seperti “Gros Michel” dan Cavendish ke Afrika Barat, Amerika Latin, serta kawasan Karibia.
+
+Istilah “republik pisang” (banana republic) merujuk pada negara yang perekonomiannya sangat bergantung pada ekspor satu jenis komoditas, seperti pisang. Negara-negara tersebut sering berada di bawah pengaruh perusahaan asing serta memiliki kondisi politik dan ekonomi yang tidak stabil.
+
+Tandan pisang diangkut melintasi perkebunan menggunakan troli yang bergerak pada sistem kabel gantung (overhead cableway). Sistem ini memungkinkan pengangkutan hasil panen secara cepat dan efisien dari area pemanenan menuju tempat pengumpulan.
+
+* * * * *
+
 Bananas are considered by horticultural experts to be among the world’s oldest cultivated fruit plants. Ethnogeographer C.O. Sauer noted that Southeast Asian fishermen used dried banana pseudostems as fiber to bind bamboo poles into rafts for coastal fishing. Over thousands of years, the propagation and spread of bananas eventually led to the development of attractive, fleshy, seedless fruits that became an important food source.
 
 The name “banana” became widely known through Arab traders. Because the fruit resembled a finger, it was derived from the Arabic word *bana’an*, meaning “finger,” which later became “banana” in English.
