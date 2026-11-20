@@ -1,6 +1,6 @@
 ---
 title: "{draw(Modernity)}"
-excerpt: "An audiovisual performance that is loosely based on the procession of Nadran in Cirebon, West Java, Indonesia."
+excerpt: "As part of an experiment with the exhibition's initially ‘silent’ concept, the performance **{draw(Modernity)}** activated the exhibition space through a range of sounds."
 coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1794146893/jackplan-user/obou6nttrvwt7onu2qpa.jpg"
 date: "2026-11-08T05:35:07.322Z"
 author:

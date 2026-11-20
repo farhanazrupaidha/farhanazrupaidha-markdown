@@ -180,9 +180,6 @@ export default function Index() {
         <li>
         <div>Deutschlandstipendium 2025 - 2026</div>
         </li>
-        <li>
-        <div>3rd Place Best Students&rsquo; Artwork Production in Final Degree Project Fine Art Category of 2015 Universitas Negeri Jakarta, Jakarta - Indonesia</div>
-        </li>
         </ol>
         <p>&nbsp;</p>      
         <Typography variant="h4" color="#f44336" sx={{mb:1, mt:2}}>COMMISSION PROJECTS</Typography>

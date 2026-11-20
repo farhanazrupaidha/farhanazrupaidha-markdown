@@ -1,6 +1,6 @@
 ---
 title: "Transport"
-excerpt: "•	Bananas are considered by horticultural experts to be among the world’s oldest cultivated fruit plants."
+excerpt: "Bananas are considered by horticultural experts to be among the world’s oldest cultivated fruit plants."
 coverImage: "https://res.cloudinary.com/studiofruworks/image/upload/v1792421855/jackplan-user/kc0dstiqj40wlde8kjoz.jpg"
 date: "2026-10-19T05:35:07.322Z"
 author:
